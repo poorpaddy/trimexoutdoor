@@ -1,0 +1,1598 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quickess Corporate Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-30 19:36+0200\n"
+"PO-Revision-Date: 2012-10-30 22:12+0200\n"
+"Last-Translator: vato yiit <yigit.telyakar@hotmail.com>\n"
+"Language-Team: Canyigit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\themes\\Quickess\n"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:5
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:48
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/page.php:29
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:46
+msgid "Error 404 - Not Found"
+msgstr "Error 404 - No se encontró"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:19
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:51
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/page.php:32
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:49
+msgid "Sorry, content you are trying to display is not available."
+msgstr "Lo sentimos, El contenido que está intentando visualizar no está disponible"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:38
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/page.php:20
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:28
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:18
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-contact.php:93
+msgid "Edit"
+msgstr "Editar"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:34
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:25
+msgid "Pages Archive"
+msgstr "Archivo  de Páginas "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:40
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:31
+msgid "Posts Archive"
+msgstr "Archivo de Mensajes"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:52
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:43
+msgid "Categories Archive"
+msgstr "Categorías de archivo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:56
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:47
+msgid "Monthly Archive"
+msgstr "Archivo mensual"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:62
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:53
+msgid "Portfolio Archive"
+msgstr "Archivo de carpeta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Esta entrada está protegida, Introduzca la contraseña para ver los comentarios.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:19
+msgid "No Comments"
+msgstr "No hay comentarios"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:19
+msgid "1 Comment"
+msgstr " 1 Comentario"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:19
+msgid "% Comments"
+msgstr "% de Comentarios"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:37
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:42
+msgid "Comments are closed."
+msgstr " Los comentarios están cerrados."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:54
+msgid "Leave Comment"
+msgstr "Deja un comentario"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:63
+msgid "Submit"
+msgstr "Someter"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:65
+#, php-format
+msgid "You are logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Estás conectado como as %1$s. %2$s Salir ;%3$s"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:65
+msgid "Log Out"
+msgstr "Finalizar Sesión"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:68
+msgid "<b>Comment</b> ( * )"
+msgstr "<b> Comentario</b> ( * )"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:91
+msgid "Main Menu"
+msgstr "Menú Principal"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:180
+msgid "Home"
+msgstr "Mapa de Sitio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:200
+msgid "404 - Page not Found"
+msgstr "No se encontró"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:201
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/searchform.php:2
+msgid "Search"
+msgstr "Buscar"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:544
+msgid "Sidebar Blog"
+msgstr "Blog de barra de lado "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:552
+msgid "Page"
+msgstr "Página"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:560
+msgid "Sidebar Footer 1"
+msgstr "Barra lateral Pie de página 1"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:568
+msgid "Sidebar Footer 2"
+msgstr "Barra lateral Pie de página 2"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:576
+msgid "Sidebar Footer 3"
+msgstr "Barra lateral Pie de página 3"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:584
+msgid "Sidebar Footer 4"
+msgstr "Barra lateral Pie de página 4"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:641
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario está pendiente de moderación"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:668
+msgid "<b>Your name</b> ( * )"
+msgstr "<b>Su nombre</b> ( * )	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:671
+msgid "<b>Email</b> ( * )"
+msgstr "<b>Email</b> ( * )	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:673
+msgid "<b>Website</b> ( Optional )"
+msgstr "<b>Sitio Web</b> ( Opcional )"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "Prev"
+msgstr "Anterior	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "Next"
+msgstr "Próximo	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "First"
+msgstr "Primero"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "Last"
+msgstr "último"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:70
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:34
+msgid "&larr; Previous Post"
+msgstr "&larr; Entrada Anterior"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:71
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:35
+msgid "Next Post &rarr;"
+msgstr "Entrada Siguiente &rarr;"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:8
+#, php-format
+msgid "Search Results for: &ldquo;%s&rdquo;"
+msgstr "Resultados de búsqueda para: : &ldquo;%s&rdquo;"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:19
+msgid "Search results in Post"
+msgstr "Resultados de búsqueda en Post	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:28
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:43
+msgid "No result matching your search were found."
+msgstr "No se encontró resultados que coincidan con su búsqueda."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:34
+msgid "Search results in Portfolio"
+msgstr "Buscar resultados en cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:34
+msgid "&larr; Prev"
+msgstr "&larr; Anterior	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:35
+msgid "Next &rarr;"
+msgstr "Próximo &rarr;"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:55
+msgid "Client"
+msgstr "Cliente"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:59
+msgid "Date"
+msgstr "Fecha"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:63
+msgid "Project Url"
+msgstr "Proyecto Url"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:65
+msgid "View Project"
+msgstr "Ver Proyecto"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:68
+msgid "Tag"
+msgstr "Etiqueta	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio2.php:24
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio3.php:24
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio4.php:24
+msgid "Filter by"
+msgstr "Filtrar por	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio2.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio3.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio4.php:27
+msgid "All"
+msgstr "Todos"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:17
+msgid "General Settings"
+msgstr "Configuración General"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:24
+msgid "Upload Logo"
+msgstr "Subir Logo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:25
+msgid "Please click Browse button to choose and upload your logo. Use delete button to delete logo. Please do not forget to save after uploading your logo."
+msgstr "Por favor, haga clic en el botón Examinar para seleccionar y subir su  logotipo. Utilice el botón delete para borrar el logotipo. Por favor, no se olvide de guardar después de subir su logotipo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:34
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:48
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:151
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:199
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:246
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1150
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1164
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:186
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:199
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:213
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:227
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:241
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:171
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:250
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:263
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:277
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:291
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:305
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:319
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:332
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:346
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:360
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:374
+msgid "Browse"
+msgstr "Examinar"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:38
+msgid "Upload Favicon"
+msgstr "Subir Favicon"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:39
+msgid "Please click Browse button to choose and upload Favicon. Use delete button to delete. Please do not forget to save after uploading Favicon."
+msgstr "Por favor, haga clic en el botón Examinar para seleccionar y cargar Favicon. Utilice el botón delete para borrar. Por favor, no se olvide de guardar después de cargar Favicon."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:52
+msgid "Header Text Right"
+msgstr "Encabezado de Texto a la Derecha"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:53
+msgid "Text you insert here will be displayed on the top right of the page. Please insert your text here."
+msgstr "El texto que introduzca aquí se mostrará en la parte superior derecha de la página. Por favor, introduzca aquí su texto."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:60
+msgid "Header Text Bold Right"
+msgstr "Encabezado de Texto Derecho en Negrita"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:61
+msgid "Text you insert here will be displayed on the top right of the page as bold. Please insert your text here."
+msgstr "El texto que introduzca aquí se mostrará en la parte superior derecha de la página en negrita. Por favor, introduzca aquí su texto."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:68
+msgid "Footer Text Left"
+msgstr "Texto pie de Pagina Izquierdo	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:69
+msgid "Text you insert here will be displayed on the bottom left of the page. Please insert your text here."
+msgstr "El texto que introduzca aquí se mostrará en la parte inferior izquierda de la página. Por favor, introduzca aquí su texto.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:76
+msgid "Footer Text Right"
+msgstr "Texto pie de Pagina Derecho"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:77
+msgid "Text you insert here will be displayed on the bottom right of the page as bold. Please insert your text here."
+msgstr "El texto que introduzca aquí se mostrará en la parte inferior derecha de la página en negrita. Por favor, introduzca aquí su texto."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:84
+msgid "Script field"
+msgstr "Campo Para Guión	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:85
+msgid "You can paste any code like Google Analytic in here."
+msgstr "Puede pegar cualquier código como Google Analytics aquí."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:92
+msgid "Custom CSS"
+msgstr "Costumbre CSS"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:93
+msgid "You can paste any css code"
+msgstr "Puede pegar cualquier código css"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:106
+msgid "Background Settings"
+msgstr "Configuración de Fondo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:113
+msgid "Predefined Background Pattern"
+msgstr "Patrón de Fondo Predefinidas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:114
+msgid "Site's background/pattern. If you choose predefined patterns, please make sure \"Custom Background/Pattern\" is turned <strong>[OFF]</strong>. If \"Custom Background/Pattern\" button below is turned <strong>[OFF]</strong>, predefined background/patterns will be reactived."
+msgstr "Fondo del sitio/patrón. Si elige patrones predefinidos, por favor asegúrese\" personalizar el fondo/ patrón\"se prende<strong>[APAGUE]</strong>, fondo predefinido/ patrones se reactivarán."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:133
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:141
+msgid "Custom Background/Pattern"
+msgstr "Personalizado Fondo / Patrón"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:134
+msgid "Please turn <strong>[ON]</strong> this button if you would like to deactivate predefined patterns and use custom background. If you turn <strong>[OFF]</strong> this button, predefined patterns will be reactived."
+msgstr "Por favor de turn <strong>[ACTIVE]</strong> este botón si desea desactivar patrones predefinidos para usar de fondo personalizado,Si usted da <strong>[APAGUE]</strong> este botón, los patrones predefinidos serán reactivados.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:142
+msgid "Please click Browse button to choose and upload your background image and choose how to align it. Use delete button to delete background image. Please do not forget to save after uploading your background image."
+msgstr " Por favor, haga clic en el botón Examinar para seleccionar y cargar la imagen de fondo y elegir la forma de alinear. Utilice el botón delete para borrar la imagen de fondo. Por favor, no se olvide de guardar después de cargar la imagen de fondo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:155
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:203
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:250
+msgid "Background Position"
+msgstr "Posición de Fondo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:156
+msgid "If you choose Stretch as background position, background image you uploaded will be stretched. If background position is set to Stretch, you do not need to set background repeat."
+msgstr "Si decide estirar la posición como fondo, imagen de fondo que has subido se estirara. Si la posición de fondo se establece en estirar, no es necesario configurar la repetición de fondo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:175
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:222
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:269
+msgid "Background Repeat"
+msgstr "Repetir Fondo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:176
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:223
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:270
+msgid "Please choose background repeat."
+msgstr "Por favor, elija Repetir fondo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:189
+msgid "Background of page titles."
+msgstr "Fondo de los títulos de página."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:190
+msgid "Please choose a background image for your page titles"
+msgstr "Por favor, elija una imagen de fondo para los títulos de su página."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:204
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:251
+msgid "Please choose background position."
+msgstr "Por favor, elija la posición de fondo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:236
+msgid "Footer Background"
+msgstr "Fondo de pie de página"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:237
+msgid "Please click browse button to choose and upload a background image for footer. Please use delete button to delete background image of footer. Please do not forget to save after uploading your background image of footer."
+msgstr "Por favor, haga clic en el botón Examinar para seleccionar y cargar una imagen de fondo para el pie de página. Por favor, use el botón delete para borrar la imagen de fondo de pie de página. Por favor, no  olvide  guardar después de cargar la imagen de fondo de pie de página."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:289
+msgid "Styles and Fonts"
+msgstr "Estilos y Fuentes"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:296
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:332
+msgid "Main Color"
+msgstr "Color Principal"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:297
+msgid "Site's main color. If you choose predefined colors, please make sure \"custom color\" button below is turned <strong>[OFF]</strong>. If \"custom color\" button below is turned <strong>[OFF]</strong>, predefined colors will be reactivated."
+msgstr "Color principal del  Sitio. Si elige colores predefinidos, por favor asegúrese\"custom color\" botón de abajo está activado<strong>[APAGUE]</strong>. Si\"custom color\" botón de abajo se activa turned <strong>[APAGUE]</strong>, colores predefinidos se reactivarán.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:316
+msgid "Custom Color"
+msgstr "Personalizar Color"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:317
+msgid "Please turn <strong>[ON]</strong> this button if you would like to deactivate predefined colors and use custom colors. If you turn <strong>[OFF]</strong> this button, predefined colors will be reactived."
+msgstr "Por favor de turn <strong>[ACTIVE]</strong> este botón si desea desactivar los colores definidos y colores personalizados. Si da <strong>[APAGUE]</strong> este botón, los colores predefinidos se reactivarán.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:324
+msgid "Body Color"
+msgstr "Color del Body"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:325
+msgid "Color value of all text elements that are within body."
+msgstr "Valor de color de todos los elementos de texto que están dentro del body."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:333
+msgid "All buttons, background colors and all the areas that take this color on the website will be effected."
+msgstr "Todos los botones, colores de fondo y todas las áreas que tienen este color en la página web se verán afectadas."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:340
+msgid "Link Color"
+msgstr "Color de Enlace"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:341
+msgid "You can change every link color on the website here."
+msgstr "Usted puede cambiar cada color de los enlaces del sitio web aquí."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:348
+msgid "Link Hover Color"
+msgstr "Color de Enlace Flotante"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:349
+msgid "You can change every link hover color on the website here."
+msgstr "Usted puede cambiar todos los colores del enlace flotante  en el sitio web aquí.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:356
+msgid "h1,h2,h3,h4,h5,h6 Color"
+msgstr "h1,h2,h3,h4,h5,h6 Color"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:357
+msgid "You can change all h tagged elements' color here."
+msgstr "Usted puede cambiar el color de todos los elementos marcados h 'aquí."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:364
+msgid "Footer Background Color"
+msgstr "Color de fondo de pie de pagina"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:365
+msgid "You can change footers background color here."
+msgstr "Puede cambiar la color de fondo de pie de página aquí	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:372
+msgid "Footer Bottom Background Color"
+msgstr "Boton de pie de pagina color de fondo "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:373
+msgid "You can change footers bottom background color here."
+msgstr "Puede cambiar la color de fondo de pie de página aquí	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:380
+msgid "Footer Main Text Color"
+msgstr "Color Principal de Texto de pie de Pagina "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:381
+msgid "You can change footers main text color in here"
+msgstr "Usted puede cambiar el color de texto principal de pie de página aquí	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:388
+msgid "Footer Bottom Text Color"
+msgstr "Boton de Color de pie de Pagina"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:389
+msgid "You can change footers bottom main text color in here"
+msgstr "Usted puede cambiar el color de fondo de piesde página en el texto principal aquí"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:396
+msgid "Footer Link Color"
+msgstr "Color de Enlace de pie de Pagina"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:397
+msgid "You can change footers link color in here."
+msgstr "Usted puede cambiar el color de enlace de pie de página aquí"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:404
+msgid "Footer Link Hover Color"
+msgstr "Color de Enlace Flotante de pie de Pagina  "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:405
+msgid "You can change footers link hover color in here."
+msgstr "Puede cambiar el color de enlace flotante de pie de pagina aqui."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:412
+msgid "Footer Widget Titles"
+msgstr "Títulos de Widget de pie de Página	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:413
+msgid "You can change the color of footer widget titles in here."
+msgstr "Usted puede cambiar el color de los títulos de widget de pie de página aquí."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:420
+msgid "Body/ Main Font"
+msgstr "Body / Fuente principal"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:421
+msgid "This change will effect body font."
+msgstr " Este cambio afectará a la fuente del body."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:435
+msgid "h1 Tag"
+msgstr "h1 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:436
+msgid "This change will effect h1 tag."
+msgstr "Este cambio afectará h1 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:450
+msgid "h2 Tag"
+msgstr "h2 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:451
+msgid "This change will effect h2 tag."
+msgstr "Este cambio afectará h2 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:465
+msgid "h3 Tag"
+msgstr "h3 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:466
+msgid "This change will effect h3 tag."
+msgstr "Este cambio afectará h3 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:480
+msgid "h4 Tag"
+msgstr "h4 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:481
+msgid "This change will effect h4 tag."
+msgstr "Este cambio afectará h4 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:495
+msgid "h5 Tag"
+msgstr "h5 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:496
+msgid "This change will effect h5 tag."
+msgstr "Este cambio afectará h5 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:510
+msgid "h6 Tag"
+msgstr "h6 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:511
+msgid "This change will effect h6 tag."
+msgstr "Este cambio afectará h6 etiqueta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:525
+msgid "Custom title 1"
+msgstr "Personalizar titulo 1"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:526
+msgid "This change will effect Page titles, Blog single's title and Blog page title."
+msgstr " Este cambio afectará los titulos de pagina, Blog título individual y el título de la página Blog"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:540
+msgid "Custom title 2"
+msgstr "Personalizar titulo 2"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:541
+msgid "This change will effect Loop titles / recent post and recent portfolio."
+msgstr "Este cambio afectará a los títulos de circuito/ pots recientes y cartera reciente"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:555
+msgid "Custom title 3"
+msgstr "Personalizar titulo 3"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:556
+msgid "This change will effect widget titles and seperator titles."
+msgstr "Este cambio afectará a los títulos de widgets y al separador de títulos"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:570
+msgid "Custom Menu"
+msgstr "Personalizado Menú"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:571
+msgid "This change will effect main nav."
+msgstr "Este cambio afectará la navegación principal."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:591
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:663
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:132
+msgid "Blog Settings"
+msgstr "Configuración de Blog"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:598
+msgid "Blog Layout"
+msgstr "Diseño  de Blog"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:599
+msgid "Please choose default layout for your blog. To set your blog page, please go to Setting > Reading > FrontPage Display > A static page > post page and choose the page that you would like to display your blog page. You can set number of post per page in Blog pages show at most section."
+msgstr "Porfavor eliga diseño predeterminado, Para configurar la página del blog, por favor vaya a Configuración> Reading >mostrar frente de pagina> Una página estática>post la página y seleccione la página que desea mostrar su página de blog. Usted puede fijar el número de post por página en las páginas de blog a mostrar en mayor parte"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:610
+msgid "Blog Sidebar Position"
+msgstr "Barra Lateral Posición del Blog"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:611
+msgid "Please choose default sidebar position for your blog."
+msgstr "Por favor, elija la posición por defecto la barra lateral de su blog."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:623
+msgid "Display author in blog posts?"
+msgstr "Mostar autor en publicaciones del blog?	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:624
+msgid "If you would like to hide author, please turn <stong>[OFF]</strong> this button."
+msgstr "Si  usted desea ocultar el autor , por favor de <stong>[APAGUE]</strong> este boton."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:631
+msgid "Display comment in blog posts?"
+msgstr "Mostrar comentarios en blog post?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:632
+msgid "If you would like to hide comment, please turn <strong>[OFF]</strong> this button."
+msgstr "Si desea ocultar los comentarios, por favor de turn <strong>[APAGUE]</strong> este boton. 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:639
+msgid "Display date in blog posts?"
+msgstr "Mostrar fecha en entradas del blog?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:640
+msgid "If you would like to hide date, please turn <strong>[OFF]</strong> this button."
+msgstr "Si desea ocultar fecha , por favor de <strong>[APAGUE]</strong>este boton. 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:647
+msgid "Display tag in blog posts?"
+msgstr "Mostrar etiqueta en entradas del blogs?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:648
+msgid "If you would like to hide tag, please turn <strong>[OFF]</strong> this button."
+msgstr "Si desea ocultar etiqueta , por favor de<strong>[APAGUE]</strong>este boton."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:655
+msgid "Display category in blog posts?"
+msgstr " Mostrar categoría en entradas del blog?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:656
+msgid "If you would like to hide category, please turn <strong>[OFF]</strong> this button."
+msgstr "Si desea ocultar la categoria , por favor de<strong>[APAGUE]</strong>este boton"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:664
+msgid "Please insert Default blog title in here."
+msgstr "Por favor, inserte Título predeterminado del blog aquí."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:677
+msgid "Social Settings"
+msgstr "Configuración Social"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:684
+msgid "Facebook"
+msgstr "Facebook"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:685
+msgid "Please write your Facebook URL."
+msgstr "Por favor escriba su Facebook URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:692
+msgid "Twitter"
+msgstr "Twitter"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:693
+msgid "Please write your Twitter URL."
+msgstr "Por favor escriba su Twitter URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:700
+msgid "YouTube"
+msgstr "YouTube"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:701
+msgid "Please write your YouTube URL."
+msgstr "Por favor escriba su YouTube URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:708
+msgid "Forrst"
+msgstr "Forrst"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:709
+msgid "Please write your Forrst URL."
+msgstr "Por favor escriba su Forrst URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:716
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:717
+msgid "Please write your Dribbble URL."
+msgstr "Por favor escriba su Dribbble URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:724
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:725
+msgid "Please write your Vimeo URL."
+msgstr "Por favor escriba su Vimeo URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:732
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:733
+msgid "Please write your Pinterest URL."
+msgstr "Por favor escriba su Pinterest URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:740
+msgid "Flickr"
+msgstr "Flickr"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:741
+msgid "Please write your Flickr URL."
+msgstr "Por favor escriba su Flickr URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:748
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:749
+msgid "Please write your Linkedin URL."
+msgstr "Por favor escriba su Linkedin URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:756
+msgid "Rss"
+msgstr "Rss"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:757
+msgid "Please write your RSS URL."
+msgstr "Por favor escriba su RSS URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:764
+msgid "Delicious"
+msgstr "Delicious"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:765
+msgid "Please write your Delicious URL."
+msgstr "Por favor escriba su Delicious URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:772
+msgid "Digg"
+msgstr "Digg"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:773
+msgid "Please write your Digg URL."
+msgstr "Por favor escriba su Digg URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:780
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:781
+msgid "Please write your Foursquare URL."
+msgstr "Por favor escriba su Foursquare URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:788
+msgid "Github"
+msgstr "Github"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:789
+msgid "Please write your Github URL."
+msgstr "Por favor escriba su Github URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:796
+msgid "Google-Plus"
+msgstr "Google-Plus"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:797
+msgid "Please write your Google-Plus URL."
+msgstr "Por favor escriba su Google-Plus URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:804
+msgid "Reddit"
+msgstr "Reddit"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:805
+msgid "Please write your Reddit URL."
+msgstr "Por favor escriba su Reddit URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:812
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:813
+msgid "Please write your Stumbleupon URL."
+msgstr "Por favor escriba su Stumbleupon URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:820
+msgid "Yelp"
+msgstr "Yelp"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:821
+msgid "Please write your Yelp URL."
+msgstr "Por favor escriba su Yelp URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:828
+msgid "Zerply"
+msgstr "Zerply"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:829
+msgid "Please write your Zerply URL."
+msgstr "Por favor escriba su Zerply URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:842
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:130
+msgid "Portfolio Settings"
+msgstr "Configuración de Cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:849
+msgid "Portfolio Page"
+msgstr "Cartera de Página"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:853
+msgid "Please choose portfolio page ( required for active class )"
+msgstr "Por favor, elija la página de la cartera (requerido para la clase activa)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:857
+msgid "Portfolio (nofilter) Layout"
+msgstr "Cartera (nofiltro) Diseño"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:858
+msgid "Please choose default layout of Portfolio (nofilter). You can choose any template and layout for filterable portfolios while creating their pages."
+msgstr "Por favor, elija diseño predeterminada de la cartera (nofiltro). Usted puede elegir cualquier plantilla y el diseño de carteras filtrables al crear sus páginas."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:870
+msgid "Nofilter Portfolio Short Description"
+msgstr "Nofiltro  Cartera Descripción Corta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:874
+msgid "You can write a short description for your portfolio that will be displayed in NoFilter portfolio"
+msgstr "Usted puede escribir una breve descripción de su cartera que se mostrará en la cartera nofiltro"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:878
+msgid "Portfolio Number"
+msgstr "Número de Cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:882
+msgid "Please insert maximum item number per page that will be displayed on NoFilter"
+msgstr "Por favor, inserte el número máximo de elemento por página que se mostrará en nofiltro"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:886
+msgid "Portfolio Number ( Filterable Portfolio )"
+msgstr "Número de Cartera (Cartera Filtrable)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:890
+msgid "Please insert maximum item number per page that will be displayed on Filterable Portfolio"
+msgstr "Por favor, inserte el número máximo de elemento por página que se mostrará sobre la cartera de filtrable"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:894
+msgid "Filterable Portfolio Pagenavi"
+msgstr "Cartera Filtrable Pagenavi"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:895
+msgid "Deactivates pagination ( pagenavi ) feature in Filterable Portfolio templates. If you turn <strong>[OFF]</strong> this button, pagination ( pagenavi ) will be visible in Filterable Portfolio page templates."
+msgstr "Desactiva la paginación( pagenavi ) característica en las plantillas de cartera filtrables,si usted le da <strong>[APAGUE]</strong>este boton, paginación ( pagenavi ) será visible en carpetas filtrables se plantillas de página 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:908
+msgid "Slider Settings"
+msgstr "Configuración de Diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:915
+msgid "FlexSlider (Homepage) Slide number"
+msgstr "FlexSlider(Homepage) Numero de Diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:916
+msgid "Please insert maximum slide number that will be displayed in slider."
+msgstr "Por favor inserte el numero maximo de diapositivas que seran mostradas en el deslizador."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:923
+msgid "FlexSlider (Homepage) Slide Duration"
+msgstr "FlexSlider (Homepage) Duracion de diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:924
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:983
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:999
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1018
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1026
+msgid "Please insert slider duration in milliseconds. i.e.: insert 1000 for 1 second"
+msgstr "Por favor introdusca la duracion del deslizador en milisegundos.i.e: introdusca1000 para 1 segundo. 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:931
+msgid "FlexSlider (Homepage) Slide Effect "
+msgstr " FlexSlider (Homepage) Efecto del Deslizador "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:932
+msgid "Please choose slide effect. This will effect homepage flexslider."
+msgstr "Por favor, elija efecto del deslizador, esto afectara homepage flexslider."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:942
+msgid "FlexSlider (Homepage) Control Nav "
+msgstr "FlexSlider (Homepage) Control de Navegacion "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:943
+msgid "Please turn <strong>[ON]</strong> the button to activate and turn <strong>[OFF]</strong> the button to deactivate Control nav."
+msgstr "Por favor de<strong>[ACTIVE]</strong>el boton para activar y de <strong>[APAGUE]</strong>el boton para desactivar el control de navegacion."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:950
+msgid "FlexSlider (Homepage) Direction Nav "
+msgstr "FlexSlider (Homepage) Direccion Nav"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:951
+msgid "Please turn <strong>[ON]</strong> the button to show and turn <strong>[OFF]</strong> the button to hide direction nav when mouse over slide."
+msgstr "Por favor de turn <strong>[ACTIVE]</strong>el boton para mostrar y de <strong>[APAGUE]</strong>el boton para ocultar direccion nav cuando el ratón esta  sobre la diapositiva.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:958
+msgid "FlexSlider (Homepage) Pause on Mouseover"
+msgstr "FlexSlider (Homepage) Pausa Cuanodo el raton esta Sobre Diapositiiva 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:959
+msgid "Please turn <strong>[ON]</strong> the button to pause when mouse over slide and turn <strong>[OFF]</strong> the button to deactivate pause when mouse over slide."
+msgstr "Por favor de strong>[ACTIVE]</strong>el boton para pausar cuando el raton esta sobre la diapositiva y de <strong>[APAGUE]</strong>el boton para desactivar la pausa cuando el raton esta sobre la diapositiva."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:966
+msgid "FlexSlider (Homepage) Slideshow(Autoplay)"
+msgstr "FlexSlider (Homepage) Diapositiva Como (Autoplay)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:967
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:975
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:991
+msgid "Please turn <strong>[ON]</strong> the button to activate autoplay and turn <strong>[OFF]</strong> the button to deactivate autoplay."
+msgstr "Por favor de <strong>[ACTIVE]</strong>al boton para activar autoplay y de <strong>[APAGUE]</strong>al boton para desactivar autoplay	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:974
+msgid "EmbedSlider Slideshow(Autoplay)"
+msgstr "EmbedSlider Presentación (Autoplay)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:982
+msgid "EmbedSlider (Homepage) Slide Duration"
+msgstr "EmbedSlider (Homepage) Duracion de Diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:990
+msgid "Portfolio Single Slideshow(Autoplay)"
+msgstr "Presentación Individual  de Cartera (Autoplay)	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:998
+msgid "Portfolio Single Slide Duration"
+msgstr "Duracion de Individual  de Cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1006
+msgid "Portfolio Single Slide Effect "
+msgstr "Efectos de Carpeta Individual "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1007
+msgid "Please choose slide effect. This will effect portfolio single flexslider."
+msgstr "Por favor, elija efecto deslizante. Esto afectará flexslider de cartera individual."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1017
+msgid "Testimonials Slide Duration"
+msgstr "Duración de Testimonios  de Diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1025
+msgid "Blog Gallery Slide Duration"
+msgstr "Galería del  Blog Duración de Diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1039
+msgid "Contact Settings"
+msgstr "Configuracion de Contacto "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1046
+msgid "Contact Page Sidebar Position"
+msgstr "Contacto pagina de posición barra lateral"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1047
+msgid "Please choose default sidebar position for your Contact Page."
+msgstr "Por favor, elija la posición por defecto la barra lateral de su página de contacto."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1058
+msgid "Maps Code"
+msgstr "Codigo de Mapas "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1059
+msgid "You can paste Google Maps code here or any other embed or iframe codes."
+msgstr "Usted puede pegar el codigo de google maps aqui o  cualquier otro código embed iframe 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1066
+msgid "Contact Mail"
+msgstr "Mail de Contacto"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1067
+msgid "Please insert your contact mail here. For more than 1 email address, please insert comma (without space) in between each email addresses."
+msgstr "Por favor ingrese su mail de contacto aqui, para mas de un email , porfavor isgrese comas (sin espacion) entre cada email"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1080
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:10
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:9
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:9
+msgid "SEO Settings"
+msgstr "Configuracion SEO"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1087
+msgid "Site's Main Title"
+msgstr "Titulo Principal de Sitio Web 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1088
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:18
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:17
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:17
+msgid "Title must not exceed 70 characters. Search engines mark titles with more than 70 characters as spam. Character count will not let you write if you try to exceed the limit."
+msgstr "El titulo no debe superar 70 caracteres. Generadores de busqueda marcan titulos con mas de 70 caracteres como spam , correo no deseado. 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1095
+msgid "Site's Main Description"
+msgstr "Descripcion Principal de Pagina Web "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1096
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:26
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:25
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:25
+msgid "Description must not exceed 160 characters. Search engines mark descriptions with more than 160 characters as spam. Character count will not let you write if you try to exceed the limit."
+msgstr "La descripcion no debe de ser mas de 160 caracteres, generador de busqueda marca como correo no deseado descripciones con mas de 160 caracteres. "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1103
+msgid "Site's Main Keywords"
+msgstr "Palabras Claves Principales de Pagina Web		"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1104
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:34
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:33
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:33
+msgid "Keywords must not exceed 260 characters. Search engines mark keywords with more than 260 characters as spam. Character count will not let you write if you try to exceed the limit."
+msgstr "Las palabras clave no deben de tener mas de 260 caracteres. Generadores de busqueda marcan palabras clave con mas de 260 caracteres como correo no deseado. El contador de caracteres no le dejara escribir si usted trata de exeder el limite. 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1111
+msgid "Google Site Verification"
+msgstr "Verificacion de la Pagina Google"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1112
+msgid "Please insert verification code for Webmaster tool in here. Insert the code given in meta codes content=\"\" section."
+msgstr "Por favor ingresar el codigo de verificacion para webmaster arramienta aqui, indrodusca el codigo dado en meta codigos	=\"\" seccion."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1125
+msgid "Admin Settings"
+msgstr "Configuracion de Administrador "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1132
+msgid "Theme Name"
+msgstr "Nombre del Tema"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1133
+msgid "Theme name will be displayed in the menu in appearance."
+msgstr "El nombre del tema sera mostrado en el menu de apariencia		"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1140
+msgid "Upload Options Page Logo (this page)"
+msgstr "Subir Logo para Página de opciones"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1141
+msgid "Logo uploaded here will change the logo located on the top left side of this page."
+msgstr "El logo subido aqui canbiara al logo localizado en la parte superior izquierda de esta pagina."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1154
+msgid "Upload Admin Login Logo"
+msgstr "Subir logo de administrador – login"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1155
+msgid "Please click Browse button to choose and upload your admin login logo. Use delete button to delete logo. Please do not forget to save after uploading your logo. Logo will be displayed in admin login page."
+msgstr "Por favor pinchar el boton examinar para elegir y subir su administrador logo –login. Use el boton delete  para borrar logo.por favor no olvide guardar despues de subir su logo. El logo se mostrar en la pagina de administrador –login "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:2664
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:382
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:510
+msgid "Delete"
+msgstr "Borrar"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:2756
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:359
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:493
+msgid "ON"
+msgstr "ACTIVE"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:2757
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:360
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:494
+msgid "OFF"
+msgstr "APAGUE"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3053
+msgid "If you need any help, you can vist our <a href=\"http://www.cmscode.com/\">support page.</a>"
+msgstr "Si nesecita alguna ayuda, usted puede visitar nuestra pagina de ayuda <a href=\"http://www.cmscode.com/\">support page.</a>"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3054
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3075
+msgid "Apply Changes"
+msgstr "Aplicar Cambios	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3074
+msgid "Default Values"
+msgstr "Valores por Defecto	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:17
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:16
+msgid "Title"
+msgstr "Titulo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:25
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:24
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:24
+msgid "Description"
+msgstr "Descripcion "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:33
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:32
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:32
+msgid "Keywords ( comma seperated )"
+msgstr "Palabras Clave ( coma separada )	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:148
+msgid "For Thumbnail image, please use Featured Image. Please change format to Gallery or Video to use metaboxes of related section."
+msgstr "Para Thumbnail imagen, por favor use Foto principal, por favor cambie el formato a galeria o video para usar mataboxes de secciones relacionadas."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:161
+msgid "Gallery Image Height"
+msgstr "Altura de Imagen de Galeria "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:162
+msgid "Please insert height for your images that will be located in gallery post format. For 600px write 600. If automatic resizing/cropping is not turned <strong>[OFF]</strong>, images will not be resized/cropped."
+msgstr "Por favor ingrese altura para su imagen que sera puesta en la galeria . para 600px escriba 600, si  el entallamiento automatico/ cropping no esta pulse <strong>[APAGUE]</strong>, las imagenes no seran cambiadas de tamaño	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:168
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:174
+msgid "Automatic Resizing / Cropping"
+msgstr "Cambio de Tamaño Automático"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:169
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:175
+msgid "Turn <strong>[ON]</strong> if you want your images to be automatically resized / cropped by using timthumb."
+msgstr "Pulse <strong>[ACTIVE]</strong>si usted desea  que sus imagenes seas cambiadas de tamaño automáticamente usando timthumb."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:176
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:240
+msgid "Image 1"
+msgstr "Imagen 1"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:177
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:190
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:204
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:218
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:232
+msgid "Please click Browse button to choose and add image. w: 610px , h: same height as above."
+msgstr "Por favor pinche el boton examinar para elegir u agregar imagen . w: 610px , h: la misma altura que arriba 		"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:189
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:253
+msgid "Image 2"
+msgstr "Imagen 2"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:203
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:267
+msgid "Image 3"
+msgstr "Imagen 3"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:217
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:281
+msgid "Image 4"
+msgstr "Imagen 4"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:231
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:295
+msgid "Image 5"
+msgstr "Imagen 5"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:259
+msgid "Video Embed/Iframe"
+msgstr "Incorporar Vídeo / Iframe	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:260
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:393
+msgid "You can paste any embed/iframe code here. Width and height will be automatically fit in responsive layout"
+msgstr "Usted puede pegar cualquier embed/iframe codigo aqui . ancho y alto seran automaticamente encajados en respuesta por defecto "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:133
+msgid "Settings"
+msgstr "Configuración"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:148
+msgid "Homepage slider"
+msgstr "Página de Inicio de Diapositiva "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:149
+msgid "Please choose slider that you would like to display on your homepage."
+msgstr "Por favor elija diapositiva que le gustaria mostrar en su Página de Inicio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:141
+msgid "Portfolio Type"
+msgstr "Tipo de Cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:142
+msgid "Please choose portfolio type. ( image or video )"
+msgstr "Por favor elija el tipo de cartera ( imagen y video )"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:151
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:152
+msgid "If lightbox is active ( yes ), larger images displayed with lightbox when clicked on thumbnail. If lightbox is deactive ( no ), goes to portfolio single page when clicked on thumbnail."
+msgstr "Si Lightbox se activa ( si ), imagenes mas grandes mostradas con Lightbox cuando pinche thumbnail, si Lightbox se desactiva ( no ) va a la cartera de pagina individual cuando pinche thumbnail."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:161
+msgid "Portfolio Thumbnail"
+msgstr "Cartera Thumbnail"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:162
+msgid "Please click browse button > select files > insert into post, to choose and add portfolio thumbnail image. w: 450px , h: 320px"
+msgstr "Por favor pinche el boton examinar > seleccionar archivos >inserte en el post , para elegir u agregar la cartera tumbnail imagen 450px , h: 320px"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:182
+msgid "Portfolio Description"
+msgstr "Descripcion de Carpeta 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:183
+msgid "Please write a short description about your portfolio."
+msgstr "Por favor, escriba una breve descripción acerca de su cartera."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:189
+msgid "Portfolio Client"
+msgstr "Cartera de Clientes	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:190
+msgid "Please insert names of your clients, if left empty (if there is no) client section will not be displayed."
+msgstr "Por favor, introduzca los nombres de sus clientes, si se deja vacía (si no existe) sección del cliente no se mostrará."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:196
+msgid "Show Data"
+msgstr "Mostrar Datos	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:197
+msgid "If you choose yes data will be displayed and if you choose no data will not be displayed."
+msgstr "Si elige sí se mostrarán los datos y si usted elige no hay datos no se mostrará.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:205
+msgid "Portfolio URL"
+msgstr "Cartera Url"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:206
+msgid "Please write if your portfolio has a link. Leave empty if there is not."
+msgstr "Por favor, escriba si su cartera tiene un enlace. Dejar en blanco si no la tiene	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:213
+msgid "View Project text"
+msgstr "Ver texto del proyecto"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:214
+msgid "Please insert text if you would like to change \"view project\" text. If left empty, View Project will be displayed."
+msgstr "Por favor, inserte el texto si usted desea cambiar\"view project\" text. Si se deja vacío, el proyecto se mostrará"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:220
+msgid "Show Taxonomy"
+msgstr "Mostrar Taxonomia	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:221
+msgid "If you choose yes taxonomy will be displayed and if you choose no taxonomy will not be displayed."
+msgstr "Si usted elige Si taxonomía sera mostrada y si usted elige no taxonomia no se mostrara.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:241
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:254
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:268
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:282
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:296
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:310
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:323
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:337
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:351
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:365
+msgid "Image width must be minimum 930px. Height will be automatically set."
+msgstr "El ancho de la imagen debe de ser como minimo 930px. La altuja se ajustara automaticamente ."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:309
+msgid "Image 6"
+msgstr "Imagen 6"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:322
+msgid "Image 7"
+msgstr "Imagen 7"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:336
+msgid "Image 8"
+msgstr "Imagen 8"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:350
+msgid "Image 9"
+msgstr "Imagen 9"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:364
+msgid "Image 10"
+msgstr "Imagen 10"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:392
+msgid "Video Embed"
+msgstr "Video Incrustado "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:10
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:246
+msgid "Slide Settings"
+msgstr "Configuracion de Diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:29
+msgid "Slider Image"
+msgstr "Imagen de Diapositiva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:30
+msgid "Please click browse button > select files > insert into post, to choose and add slider image. w: 930px , h: 400px"
+msgstr "Por favor pinchar el boton examinar > seleccionar archivos >insertar en post, para elegir y agregar imagen de diapositiva. w: 930px , h: 400px	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:43
+msgid "Slider Url"
+msgstr "Dispositiva Url"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:44
+msgid "Link to URL when clicked on image. ( Empty if there is no )"
+msgstr "Enlace para URL cuando pinchais sobre la imagen 	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:51
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:263
+msgid "Slide Title"
+msgstr "Titulo de Diapositiva "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:52
+msgid "Title will not be displayed if empty"
+msgstr "Titulo no se mostrara si esta vacia	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:59
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:270
+msgid "Slide Caption"
+msgstr "Diapositiva Leyenda "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:60
+msgid "Caption will not be displayed if empty"
+msgstr "Leyenda no se mostrara si esta vacia"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:66
+msgid "Caption Align"
+msgstr "Alinear Leyenda "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:67
+msgid "Please choose how to align slider title and caption."
+msgstr "Por favor, elija la forma de alinear el  título "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:256
+msgid "Slide Embed"
+msgstr "Deslizador Incrustar"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:264
+msgid "Please insert a slide title that will be located on the right side of the embed code."
+msgstr "Por favor, inserte un título de diapositiva que se encuentra en el lado derecho de la código de inserción	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:271
+msgid "Please insert a slide caption that will be located on the right side of the embed code."
+msgstr "Por favor, inserte una etiqueta diapositiva que se encuentra en el lado derecho del código incrustado"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:170
+msgid "Sidebar Name"
+msgstr "Nombre de barra lateral "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:171
+msgid "CSS clas"
+msgstr "CSS clase"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:172
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:185
+msgid "Remove"
+msgstr "Quitar"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:193
+msgid "No Sidebars defined"
+msgstr "No hay barras laterales definidas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:200
+msgid "+ Add New Sidebar"
+msgstr "+ Agregar Nueva Barra Lateral "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:242
+msgid "Please select the sidebar you would like to display on this page. <strong>Note:</strong> You must first create the sidebar under Appearance > Sidebars."
+msgstr "Por favor seleccione la barra lateral que  desea mostrar en esta pagina<strong>Note:</strong> usted debe primero crear la barra lateral  en apariencia > Sidebars	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:251
+msgid "Default Sidebars"
+msgstr "Barras laterales por defecto"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:266
+msgid "None"
+msgstr "Ninguno"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/gallery.php:78
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/standard.php:22
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/video.php:25
+msgid "By"
+msgstr "Por"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/gallery.php:82
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/standard.php:26
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/video.php:29
+msgid "In"
+msgstr "En"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/gallery.php:99
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/standard.php:43
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/video.php:46
+msgid "Read More"
+msgstr "Leer más"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:8
+msgid "Portfolio Item"
+msgstr "Elemento de Carpeta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:9
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:9
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:51
+msgid "Add new"
+msgstr "Agregar Nuevo "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:10
+msgid "Add New Portfolio Item"
+msgstr "Agregar nuevo  elemento a Portafolio	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:11
+msgid "Edit Portfolio Item"
+msgstr "Editar articulo de carpeta "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:12
+msgid "New Portfolio  Item"
+msgstr "Nuevo articulo de carpeta "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:13
+msgid "View Portfolio Item"
+msgstr " Ver artículo de carpeta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:14
+msgid "Search Portfolio"
+msgstr "Buscar Cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:15
+msgid "No Portfolios Found"
+msgstr " No se han encontrado Carteras"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:16
+msgid "No Portfolios In Trash"
+msgstr "Ino hay Portafolios en la basura	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:18
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:23
+msgid "Portfolio"
+msgstr "Cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:41
+msgid "Filter"
+msgstr "Filtrar"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:8
+msgid "Slider Item"
+msgstr "Elemento Deslizante	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:10
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:52
+msgid "Add New Slider Item"
+msgstr "Agregar nuevo elemento deslizante"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:11
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:53
+msgid "Edit Slider Item"
+msgstr "Editar elemento deslizante"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:12
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:54
+msgid "New Slider  Item"
+msgstr "Nuevo Artículo deslizador"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:13
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:55
+msgid "View Slider Item"
+msgstr "Ver artículo deslizante"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:14
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:56
+msgid "Search Slider"
+msgstr " Busqueda de Diapositivas "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:15
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:57
+msgid "No Sliders Found"
+msgstr "No se han encontrado deslizadores"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:58
+msgid "No Sliders In Trash"
+msgstr "No deslizadores en la basura"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:18
+msgid "Slider"
+msgstr "Deslizador	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:23
+msgid "slider"
+msgstr "deslizador	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:50
+msgid "EmbedSlider Item"
+msgstr "Articulo del Insertar deslizador"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:60
+msgid "EmbedSlider"
+msgstr "Insertar deslizador"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:65
+msgid "videoslider"
+msgstr "Diapositivas de Video"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:41
+msgid "You can display your Flickr images by using this widget."
+msgstr "Se pueden visualizar las imágenes de Flickr usando este widget."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:55
+msgid "SOS Flickr Widget"
+msgstr "SOS Flickr Widget"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:182
+msgid "Flickr id"
+msgstr "Flickr id"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:194
+msgid "Number of photos "
+msgstr "Numero de Fotos"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-recent-portfolio.php:41
+msgid "This widget displays your recent portfolio items."
+msgstr "Este widget muestra los elementos de la cartera recientes."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-recent-portfolio.php:55
+msgid "SOS Portfolio Widget"
+msgstr "SOS Cartera Widget"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-recent-portfolio.php:164
+msgid "Number of Portfolio"
+msgstr "Número de Cartera"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-social.php:41
+msgid "This widget displays your social network that you have added in option page."
+msgstr "Este widget muestra la red social que ha agregado en la página de opciones."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-social.php:55
+msgid "SOS Social Widget"
+msgstr "SOS Social Widget"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-social.php:149
+msgid "All social network you have added in option page will be displayed in selected section."
+msgstr "Todas las  redes sociales que ha agregado en la página opción se mostrarán en la sección seleccionada."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:41
+msgid "You can display your Tweets by using this Twitter widget."
+msgstr "Puede mostrar sus tweets a través de este widget de Twitter."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:55
+msgid "SOS Twitter Widget"
+msgstr "SOS Twitter Widget"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:182
+msgid "Twitter name"
+msgstr "Nombre de tweeter"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:194
+msgid "Tweet Number"
+msgstr "Numero de Tweet"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:206
+msgid "Follow Text"
+msgstr "Siga Texto"
+

@@ -1,0 +1,440 @@
+@charset "utf-8";
+/*	--------------------------------------------------------------
+	:: General
+	-------------------------------------------------------------- */
+	span.adminlink {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	margin-left: 15px;
+	margin-right: 15px;
+	margin-bottom: -2px;
+}
+span#sos-admin-menu-general_settings { background-image: url(../images/opimage/op1.png); }
+span#sos-admin-menu-admin_background_settings { background-image: url(../images/opimage/op2.png); }
+span#sos-admin-menu-style_and_font { background-image: url(../images/opimage/op3.png); }
+span#sos-admin-menu-blogs_settings { background-image: url(../images/opimage/op4.png); }
+span#sos-admin-menu-socialss_settings { background-image: url(../images/opimage/op5.png); }
+span#sos-admin-menu-portfolio_settings { background-image: url(../images/opimage/op6.png); }
+span#sos-admin-menu-contact_settings { background-image: url(../images/opimage/op7.png); }
+span#sos-admin-menu-admin_settings { background-image: url(../images/opimage/op8.png); }
+span#sos-admin-menu-seo_settings { background-image: url(../images/opimage/op9.png); }
+span#sos-admin-menu-sliders_settings { background-image: url(../images/opimage/op10.png); }
+.seotrue {
+	background-color: white;
+	border: 1px solid #DDD;
+	color: #568306;
+	padding: 5px;
+	padding-left: 35px;
+	border-radius: 3px;
+	line-height: 18px;
+	margin-top: 10px;
+	background-image: url(../images/opimage/b_green.png);
+	background-position: 10px center;
+	background-repeat: no-repeat;
+}
+.typography { }
+.seofalse {
+	background-color: #FF9D9D;
+	border: 1px solid #DA3838;
+	color: #830606;
+	padding: 5px;
+	padding-left: 35px;
+	border-radius: 3px;
+	line-height: 18px;
+	margin-top: 10px;
+	background-image: url(../images/opimage/b_red.png);
+	background-position: 10px center;
+	background-repeat: no-repeat;
+}
+.radioimages,
+.admin-image {
+	max-width:400px;
+	padding:10px;
+	background-color:#fff;
+	border:1px solid #CCCCCC;
+	margin-bottom:15px;
+	border-radius: 3px;
+}
+.radioimages {
+	margin-bottom: 10px !important;
+	padding: 5px;
+}
+.radio-img-selected {
+	background-color:#eee;
+	-webkit-box-shadow:  0px 0px 3px 1px rgba(0, 0, 0, 0);
+	box-shadow:  0px 0px 3px 1px rgba(0, 0, 0, 0);
+}
+#update-message {
+	position: absolute;
+	left: 0;
+	width: 475px;
+	height: 23px;
+	padding: 10px;
+	bottom: 0px;
+	margin-left: 0;
+	margin-top: -25px;
+	background-color:#F3FFCE;
+	border: 1px solid #9C0;
+	display: none;
+}
+.posrel { position:relative; }
+.metabox-area {
+	padding:20px;
+	letter-spacing: 0.3px;
+}
+.metabox-area .sep {
+	margin:30px 0;
+	height:1px;
+	background-color:#DFDFDF;
+}
+.metabox-text {
+	width:300px;
+	height:34px;
+	border:1px solid #eee;
+	-moz-box-shadow: inset 1px 1px 2px #f0f0f0;
+	-webkit-box-shadow: inset 1px 1px 2px #f0f0f0;
+	box-shadow: inner 1px 1px 2px #f0f0f0;
+	padding: 0 8px;
+}
+.metabox-textarea {
+	width:300px;
+	height:100px;
+	-moz-box-shadow: inset 1px 1px 2px #f0f0f0;
+	-webkit-box-shadow: inset 1px 1px 2px #f0f0f0;
+	box-shadow: inner 1px 1px 2px #f0f0f0;
+	outline:0 !important;
+}
+.metabox-area select,
+.adminselect {
+	height:34px !important;
+	background:#FFF;
+	width:300px;
+}
+.metabox-desc,
+.metabox-title {
+	color:#8a8a8a;
+	margin:10px 0 10px 0px;
+	display:block;
+	font:12px/22px arial, sans-serif;
+}
+.metabox-title {
+	font-weight:bold !important;
+	font:12px/22px arial, sans-serif;
+	color: #24292D;
+}
+.metabox-area .button-primary,
+.metabox-area .button { min-width:80px; }
+.metabox-area .slide-image {
+	max-width:400px;
+	padding:5px;
+	background-color:#FFF;
+	border-bottom:1px solid #ddd;
+	margin-bottom:10px;
+}
+.inblock {
+	display:inline-block !important;
+	margin-left:0px;
+	font:12px/22px arial, sans-serif;
+	color:#8a8a8a;
+}
+/*	--------------------------------------------------------------
+	:: Options Page
+	-------------------------------------------------------------- */
+#sos-admin {
+	background-color: #fff;
+	width: 750px;
+	border-radius: 4px 4px 0 0;
+	font:12px/22px arial, sans-serif;
+	color:#8a8a8a;
+}
+#sos-admin select.typography, #sosq_portfolio_mainpage,
+select.typography {
+	background-image: url(../images/opimage/arrowtp.png);
+	background-position: center right;
+	background-repeat: no-repeat;
+	height: 34px;
+	-webkit-appearance: none;
+	background-color: none !important;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-shadow: none;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	color: #8F8F8F;
+	padding: 5px 25px 5px 10px;
+	border:1px solid #ddd;
+}
+#sos-admin .admin-image { }
+#sos-admin .button-primary,
+.button { min-width:80px; }
+#sos-admin .adminsep {
+	margin:30px 0;
+	height:1px;
+	background-color:#Ddd;
+}
+#sos-admin-header {
+	background-color: #fff;
+	height: 120px;
+	border-radius: 4px 4px 0 0;
+	border-bottom: 0px solid #DFDFDF;
+	width: 750px;
+	margin-top:20px;
+	background-image: url(../images/opimage/admin-header.png);
+	background-repeat: no-repeat;
+	background-position: right center;
+	position: relative;
+}
+#sos-admin-header #admin-logo {
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+#sos-admin-header h3 {
+	color: #444;
+	font-size: 20px;
+	line-height: 80px;
+	padding: 0px;
+	margin: 0px;
+}
+#sos-admin-header h3 span { font-size:14px; }
+#sos-admin-main {
+	border-bottom: 0px solid #DFDFDF;
+	border-left: 0px solid #DFDFDF;
+	border-right: 0px solid #DFDFDF;
+}
+#sos-admin-menu {
+	width: 225px;
+	z-index: 1;
+	position: relative;
+	float: left;
+}
+.announcement {
+	position: absolute;
+	left: 255px;
+	top: 30px;
+	width: 300px;
+}
+.announcement a { color: #D54E21; }
+.announcement a:hover { color: #fff; }
+.button1 {
+	position: absolute;
+	right: 30px;
+	top: 30px;
+}
+.button2 {
+	position: absolute;
+	right: 30px;
+	top: 70px;
+}
+.button3 {
+	position: absolute;
+	right: 176px;
+	top: 30px;
+}
+.button4 {
+	position: absolute;
+	right: 30px;
+	top: 30px;
+}
+#yaytrue {
+	width: 433px;
+	height: 28px;
+	display: none;
+	background-color: #BDFB6A;
+	border: 1px solid #2D371C;
+	background-image: url(../images/opimage/yaytrue.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 30px;
+	left: 255px;
+	padding: 15px;
+	text-align: center;
+	color: #416D03;
+	text-shadow:0px 1px #D3FC9B;
+	font-weight: bold;
+}
+#yaybottom {
+	width: 433px;
+	height: 28px;
+	display: none;
+	background-color: #BDFB6A;
+	border: 1px solid #2D371C;
+	background-image: url(../images/opimage/yaytrue.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+	position: absolute;
+	top: 15px;
+	left: 30px;
+	padding: 15px;
+	text-align: center;
+	color: #416D03;
+	text-shadow:0px 1px #D3FC9B;
+	font-weight: bold;
+	z-index: 9999;
+}
+.secondcustombutton {
+	border-radius: 3px !important;
+	-webkit-border-radius: 3px !important;
+	height: 27px !important;
+	line-height: 28px !important;
+	background-position: center bottom !important;
+	padding: 0px 15px !important;
+}
+.shadowbutton {
+	-webkit-box-shadow:  0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+	box-shadow:  0px 0px 10px 1px rgba(0, 0, 0, 0.2);
+}
+.customyellow {
+	background-image: url(../images/opimage/yellowbg.png);
+	background-repeat: repeat-x;
+	height: 28px;
+	padding: 0 15px;
+	display: inline-block;
+	border: 1px solid #F9CD34 !important;
+	color: #A56505 !important;
+	cursor: pointer;
+	text-shadow:0px 1px #FCE79F;
+	font-weight: bold;
+	line-height: 27px;
+	font-size: 12px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border-radius: 3px 3px 3px 3px;
+	text-decoration: none;
+}
+.customyellow:active {
+	background-color: #FDECB0 !important;
+	background-image: none;
+}
+.customyellow:hover {
+	background-image: url(../images/opimage/yellowbg.png);
+	color: #D54E21 !important;
+}
+.customdark { background-image: url(../images/opimage/browseicon.jpg); }
+.customdark1 { background-image: url(../images/opimage/deleteicon.jpg); }
+.customdark,
+.customdark1 {
+	background-repeat: repeat-x;
+	height: 28px;
+	padding: 0 15px 0 37px;
+	display: inline-block;
+	border: 1px solid #CCCCCC !important;
+	color: #282C31 !important;
+	cursor: pointer;
+	text-shadow:0px 1px #fff;
+	font-weight: bold;
+	line-height: 27px;
+	font-size: 12px;
+	-webkit-border-radius: 3px 3px 3px 3px;
+	border-radius: 3px 3px 3px 3px;
+	text-decoration: none;
+}
+.customdark:hover,
+.customdark1:hover { border: 1px solid #282C31 !important; }
+.cb-enable,
+.cb-disable,
+.cb-enable span,
+.cb-disable span {
+	background: url(../images/opimage/switch.gif) repeat-x;
+	display: block;
+	float: left;
+}
+.cb-enable span,
+.cb-disable span {
+	line-height: 30px;
+	display: block;
+	background-repeat: no-repeat;
+	font-weight: bold;
+	font-size: 12px;
+}
+.cb-enable.selected span { text-shadow:0px -1px #027893; }
+.cb-enable span {
+	background-position: left -90px;
+	padding: 0 15px;
+}
+.cb-disable span {
+	background-position: right -180px;
+	padding: 0 15px;
+}
+.cb-disable.selected { background-position: 0 -30px; }
+.cb-disable.selected span {
+	background-position: right -210px;
+	color: #fff;
+}
+.cb-enable.selected { background-position: 0 -60px; }
+.cb-enable.selected span {
+	background-position: left -150px;
+	color: #fff;
+}
+.switch label { cursor: pointer; }
+#sos-admin-menu ul {
+	margin: 0px;
+	list-style: none;
+	padding: 0px;
+}
+#sos-admin-menu ul .sos-admin-menu-li { margin: 0; }
+#sos-admin-menu ul li .sos-admin-menu-link {
+	line-height: 45px;
+	height: 45px;
+	display: block;
+	font-weight: bold;
+	text-decoration: none;
+	letter-spacing:0.5px;
+	word-spacing:2px !important;
+	-webkit-transition: all 0.2s linear;
+	-moz-transition: all 0.3s ease-in;
+	-ms-transition: all 0.3s ease-in;
+	-o-transition: all 0.3s ease-in;
+	transition: all 0.3s ease-in;
+	background-image: url(../images/opimage/opnormal.png);
+	font-family: arial;
+	font-size: 12px;
+	color:#636668;
+	text-shadow:0px -1px #1C1F22;
+}
+#sos-admin-menu ul li .sos-admin-menu-link:focus {
+	background-image: url(../images/opimage/opnormal.png);
+	font-family: arial;
+	font-size: 12px;
+	color: #fff;
+	outline: 0;
+}
+#sos-admin-menu ul li .sos-admin-menu-link:hover {
+	background-image: url(../images/opimage/opactive.png);
+	font-family: arial;
+	font-size: 12px;
+	color: #fff;
+	text-shadow:0px 0px #fff;
+}
+#sos-admin-menu ul li .visible {
+	background-image: url(../images/opimage/opactive.png);
+	font-family: arial;
+	font-size: 12px;
+	color: #fff;
+	text-shadow:0px 0px #fff;
+}
+#sos-admin-content {
+	width: 525px;
+	float: left;
+	background-color: #f8f8f8;
+	min-height: 250px;
+}
+#sos-admin-content .sos-admin-content-box {
+	padding:10px 30px;
+	display: none;
+}
+#sos-admin-content .visible { display: block; }
+#sos-admin-footer {
+	border-bottom: 1px solid #DFDFDF;
+	border-left: 1px solid #DFDFDF;
+	border-right: 1px solid #DFDFDF;
+	padding: 45px;
+	text-align:right;
+	margin-left: 225px;
+	background-image: url(../images/opimage/admin-footer.png);
+	background-repeat: no-repeat;
+	background-position: center bottom;
+}
+.clear { clear: both; }

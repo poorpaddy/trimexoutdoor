@@ -1,0 +1,1598 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quickess Corporate Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-30 19:36+0200\n"
+"PO-Revision-Date: 2012-10-30 23:05+0200\n"
+"Last-Translator: vato yiit <yigit.telyakar@hotmail.com>\n"
+"Language-Team: Canyigit\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\wamp\\www\\wordpress\\wp-content\\themes\\Quickess\n"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:5
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:48
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/page.php:29
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:46
+msgid "Error 404 - Not Found"
+msgstr "Klaida 404 - Nerasta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:19
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:51
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/page.php:32
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:49
+msgid "Sorry, content you are trying to display is not available."
+msgstr "Atsiprašome, bet turinys, kurį norite pamatyti, yra nepasiekiamas."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:38
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/page.php:20
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:28
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:18
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-contact.php:93
+msgid "Edit"
+msgstr "Redaguoti"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:34
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:25
+msgid "Pages Archive"
+msgstr "Puslapių Archyvas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:40
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:31
+msgid "Posts Archive"
+msgstr "Pranešimų Archyvas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:52
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:43
+msgid "Categories Archive"
+msgstr "Kategorijų Archyvas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:56
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:47
+msgid "Monthly Archive"
+msgstr "Mėnesio Archyvas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/404.php:62
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-archive.php:53
+msgid "Portfolio Archive"
+msgstr "Portfolio Archyvas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:11
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Šis komentaras yra apsaugotas slaptažodžiu. Įveskite slaptažodį, kad galėtumėte peržiūrėti kometarus."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:19
+msgid "No Comments"
+msgstr "Kometarų nėra"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:19
+msgid "1 Comment"
+msgstr "1 Komentaras"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:19
+msgid "% Comments"
+msgstr "% Komentarų"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:37
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:42
+msgid "Comments are closed."
+msgstr "Komentarai yra uždaryti"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:54
+msgid "Leave Comment"
+msgstr "Palikite komentarą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:63
+msgid "Submit"
+msgstr "Patvrtinti"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:65
+#, php-format
+msgid "You are logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr "Jūs prisijungėte kaip %1$s. %2$s Atsijungė &raquo;%3$s"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:65
+msgid "Log Out"
+msgstr "Atsijungti"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/comments.php:68
+msgid "<b>Comment</b> ( * )"
+msgstr "<b>Komentaras</b> ( * )"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:91
+msgid "Main Menu"
+msgstr "Pagrindinis Meniu"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:180
+msgid "Home"
+msgstr "Pagrindinis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:200
+msgid "404 - Page not Found"
+msgstr "404 - Puslapio Nerasta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:201
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/searchform.php:2
+msgid "Search"
+msgstr "Paieška"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:544
+msgid "Sidebar Blog"
+msgstr "Šoninės panelės blog'as"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:552
+msgid "Page"
+msgstr "Puslapis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:560
+msgid "Sidebar Footer 1"
+msgstr "Panelės Footer'is 1"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:568
+msgid "Sidebar Footer 2"
+msgstr "Panelės Footer'is 2"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:576
+msgid "Sidebar Footer 3"
+msgstr "Panelės Footer'is 3"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:584
+msgid "Sidebar Footer 4"
+msgstr "Panelės Footer'is 4"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:641
+msgid "Your comment is awaiting moderation."
+msgstr "Jūsų komentaras laukia moderatorių sprendimo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:668
+msgid "<b>Your name</b> ( * )"
+msgstr "<b>jūsų vardas</b> ( * )"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:671
+msgid "<b>Email</b> ( * )"
+msgstr "<b>Paštas</b> ( * )"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/functions.php:673
+msgid "<b>Website</b> ( Optional )"
+msgstr "<b> Tinklapis</b> (Neprivalomas)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "Prev"
+msgstr "Ankstesnis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "Next"
+msgstr "Kitas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "First"
+msgstr "Pirmas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:43
+msgid "Last"
+msgstr "Paskutinis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:70
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:34
+msgid "&larr; Previous Post"
+msgstr "&larr; Ankstesnis Komentaras"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/index.php:71
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single.php:35
+msgid "Next Post &rarr;"
+msgstr "Kitas Komentaras &rarr;"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:8
+#, php-format
+msgid "Search Results for: &ldquo;%s&rdquo;"
+msgstr "Paieškos rezultatai: &ldquo;%s&rdquo;"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:19
+msgid "Search results in Post"
+msgstr "Paieškos rezultatai pranešimuose"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:28
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:43
+msgid "No result matching your search were found."
+msgstr "Jūsų paieškos užklausos rezultatų nerasta."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/search.php:34
+msgid "Search results in Portfolio"
+msgstr "Paieškos rezultatai Portfolio skiltyje"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:34
+msgid "&larr; Prev"
+msgstr "&larr; Ankstesnis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:35
+msgid "Next &rarr;"
+msgstr "Kitas &rarr;"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:55
+msgid "Client"
+msgstr "Klientas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:59
+msgid "Date"
+msgstr "Data"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:63
+msgid "Project Url"
+msgstr "Projekto URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:65
+msgid "View Project"
+msgstr "Peržiūrėti Projektą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/single-portfolio.php:68
+msgid "Tag"
+msgstr "Žymė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio2.php:24
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio3.php:24
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio4.php:24
+msgid "Filter by"
+msgstr "Filtruoti pagal"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio2.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio3.php:27
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/template-portfolio4.php:27
+msgid "All"
+msgstr "Visus"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:17
+msgid "General Settings"
+msgstr "Pagrindiniai Nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:24
+msgid "Upload Logo"
+msgstr "Įkelti Logotipą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:25
+msgid "Please click Browse button to choose and upload your logo. Use delete button to delete logo. Please do not forget to save after uploading your logo."
+msgstr "Prašau paspauskite Naršyti mygtuką, kad pasirinkti ir įkelti logotipą. Naudokite Ištrinti mygtuką, kad pašalinti/ištrinti logotipą. Nepamirškite išsaugoti logotipo po įkėlimo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:34
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:48
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:151
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:199
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:246
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1150
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1164
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:186
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:199
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:213
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:227
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:241
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:171
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:250
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:263
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:277
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:291
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:305
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:319
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:332
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:346
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:360
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:374
+msgid "Browse"
+msgstr "Naršyti"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:38
+msgid "Upload Favicon"
+msgstr "Įkelti Favicon"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:39
+msgid "Please click Browse button to choose and upload Favicon. Use delete button to delete. Please do not forget to save after uploading Favicon."
+msgstr "Prašau paspauskite Naršyti mygtuką, kad pasirinkti ir įkelti Favicon'ą. Naudokite Ištrinti mygtuką, kad pašalinti jį. Nepamirškite išsaugoti Favicon'o po įkėlimo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:52
+msgid "Header Text Right"
+msgstr "Teksto Antraštės Dešinė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:53
+msgid "Text you insert here will be displayed on the top right of the page. Please insert your text here."
+msgstr "Tekstas, kurį parašysite čia, bus rodomas dešinės pusės viršuje. Prašau įterpkite savo tekstą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:60
+msgid "Header Text Bold Right"
+msgstr "Teksto Antraštės Ryškiai Dešinėje"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:61
+msgid "Text you insert here will be displayed on the top right of the page as bold. Please insert your text here."
+msgstr "Tekstas, kurį parašysite čia, bus rodomas dešinės pusės viršuje kaip paryškintas. Prašau įterpkite savo tekstą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:68
+msgid "Footer Text Left"
+msgstr "Teksto Footer'io Kairė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:69
+msgid "Text you insert here will be displayed on the bottom left of the page. Please insert your text here."
+msgstr "Tekstas, kurį parašysite čia, bus rodomas kairės pusės apačioje. Prašau įterpkite savo tekstą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:76
+msgid "Footer Text Right"
+msgstr "Teksto Footer'io Dešinė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:77
+msgid "Text you insert here will be displayed on the bottom right of the page as bold. Please insert your text here."
+msgstr "Tekstas, kurį parašysite čia, bus rodomas dešinės pusės apačioje kaip paryškintas. Prašau įterpkite savo tekstą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:84
+msgid "Script field"
+msgstr "Skripto laukelis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:85
+msgid "You can paste any code like Google Analytic in here."
+msgstr "Jūs galite įterpti bet kokį kodą kaip Google Analytic čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:92
+msgid "Custom CSS"
+msgstr "Jūsų įterptas CSS"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:93
+msgid "You can paste any css code"
+msgstr "Jūs galite įterpti bet kurį CSS kodą čia"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:106
+msgid "Background Settings"
+msgstr "Fono Nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:113
+msgid "Predefined Background Pattern"
+msgstr "Iš anksto nustatytas fono modelis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:114
+msgid "Site's background/pattern. If you choose predefined patterns, please make sure \"Custom Background/Pattern\" is turned <strong>[OFF]</strong>. If \"Custom Background/Pattern\" button below is turned <strong>[OFF]</strong>, predefined background/patterns will be reactived."
+msgstr "Tinklapio Fonas/Modelis. Jeigu jūs pasirinksite iš anksto nustatytus modelius, patikrinkite, ar \"Jūsų nustatytas Fonas/Modelis\" yra įjungtas, kaip <strong>[IŠJUNGTI]</strong>, iš anksto nustatyti fonai/modeliai bus atgaivinti."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:133
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:141
+msgid "Custom Background/Pattern"
+msgstr "Jūsų nustatytas Fonas/Modelis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:134
+msgid "Please turn <strong>[ON]</strong> this button if you would like to deactivate predefined patterns and use custom background. If you turn <strong>[OFF]</strong> this button, predefined patterns will be reactived."
+msgstr "Prašau įjunkite <strong>[IJUNGTI]</strong> šį mygtuką jeigu norite išjungti iš anksto nustatytus modelius ir naudoti jūsų nustatytą foną. Jeigu jūs įjungsite <strong>[IŠJUNGTI]</strong> šį mygtuką, iš anksto nustatyti fonai/modeliai bus atgaivinti."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:142
+msgid "Please click Browse button to choose and upload your background image and choose how to align it. Use delete button to delete background image. Please do not forget to save after uploading your background image."
+msgstr "Prašau paspauskite ant Naršyti mygtuko, kad išsirinkti ir įkelti fono paveikslėlį ir išlygiuoti jį. Naudokite Ištrinti mygtuką, kad ištrinti/pašalinti fono paveiksliuką. Nepamirškite išsaugoti po to, kai įkėlėte savo fono paveikslėlį.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:155
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:203
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:250
+msgid "Background Position"
+msgstr "Fono Pozicija"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:156
+msgid "If you choose Stretch as background position, background image you uploaded will be stretched. If background position is set to Stretch, you do not need to set background repeat."
+msgstr "Jeigu Jūs pasirinkote Ištemptas fono poziciją, fono paveikslėlis bus ištemptas. Jeigu Jūs pasirinkote Ištemptas fono poziciją, jum nereikia nustatyti fono pakartojimo."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:175
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:222
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:269
+msgid "Background Repeat"
+msgstr "Fono Pakartojimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:176
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:223
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:270
+msgid "Please choose background repeat."
+msgstr "Prašau išsirinkite fono pakartojimą."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:189
+msgid "Background of page titles."
+msgstr "Puslapių pavadinimų fonas."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:190
+msgid "Please choose a background image for your page titles"
+msgstr "Prašau išsirinkite fono paveikslėlį Jūsų puslapio pavadinimui."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:204
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:251
+msgid "Please choose background position."
+msgstr "Prašau išsirinkite fono poziciją"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:236
+msgid "Footer Background"
+msgstr "Footer'io Fonas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:237
+msgid "Please click browse button to choose and upload a background image for footer. Please use delete button to delete background image of footer. Please do not forget to save after uploading your background image of footer."
+msgstr "Prašau paspauskite Naršyti mygtuką, kad išsirinkti fono paveikslėlį footer'iui. Prašau naudokite Ištrinti mygtuką, kad ištrinti/pašalinti fono paveikslėlį footer'iui. Nepamirškite išsaugoti po to, kai įkėlėte savo fono paveikslėlį footer'iui."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:289
+msgid "Styles and Fonts"
+msgstr "Stiliai ir Šriftai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:296
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:332
+msgid "Main Color"
+msgstr "Pagrindinė Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:297
+msgid "Site's main color. If you choose predefined colors, please make sure \"custom color\" button below is turned <strong>[OFF]</strong>. If \"custom color\" button below is turned <strong>[OFF]</strong>, predefined colors will be reactivated."
+msgstr "Tinklapio pagrindinė spalva. Jeigu Jūs pasirinksite iš anksto nustatytas spalvas, patikrinkite ar \"Nustatyta Spalva\" mygtukas žemiau yra <strong>[IŠJUNGTI]</strong>. Jeigu \"Nustatyta Spalva\" mygtukas yra nustatytas kaip <strong>[IŠJUNGTI]</strong>, iš anksto nustatytos spalvos bus atgaivintos."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:316
+msgid "Custom Color"
+msgstr "Nustatyta Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:317
+msgid "Please turn <strong>[ON]</strong> this button if you would like to deactivate predefined colors and use custom colors. If you turn <strong>[OFF]</strong> this button, predefined colors will be reactived."
+msgstr "Prašau įjunkite <strong>[IJUNGTI]</strong> šį mygtuką, jeigu Jūs norite išjungti iš anksto nustatytas spalvas ir naudoti Jūsų nustatytas spalvas. Jeigu Jūs įjungsite <strong>[IŠJUNGTI]</strong> šį mygtuką, iš anksto nustatytos spalvos bus atgaivintos."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:324
+msgid "Body Color"
+msgstr "Pagrindo Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:325
+msgid "Color value of all text elements that are within body."
+msgstr "Spalvos reikšmė visų teksto elementų, kurie yra tinklapio pagrinde."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:333
+msgid "All buttons, background colors and all the areas that take this color on the website will be effected."
+msgstr "Visi mygtukai, fono spalvos ir visi laukai bus paveikti šitos spalvos."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:340
+msgid "Link Color"
+msgstr "Nuorodos Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:341
+msgid "You can change every link color on the website here."
+msgstr "Jūs galite pakeisti bet kurio nuorodos spalvą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:348
+msgid "Link Hover Color"
+msgstr "Nuorodos Svyravimo Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:349
+msgid "You can change every link hover color on the website here."
+msgstr "Jūs galite pakeisti bet kurios nuorodos svyravimo spalvą čia"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:356
+msgid "h1,h2,h3,h4,h5,h6 Color"
+msgstr "h1,h2,h3,h4,h5,h6 Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:357
+msgid "You can change all h tagged elements' color here."
+msgstr "Jūs galite pakeisti visus h tag'ų elementus"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:364
+msgid "Footer Background Color"
+msgstr "Footer'io Fono Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:365
+msgid "You can change footers background color here."
+msgstr "Jūs galite pakeisti footer'io fono spalva čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:372
+msgid "Footer Bottom Background Color"
+msgstr "Footer'io apatinės dalies"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:373
+msgid "You can change footers bottom background color here."
+msgstr "Jūs galite pakeisti footer'io apačios fono spalvą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:380
+msgid "Footer Main Text Color"
+msgstr "Footer'io Pagrindinio Teksto Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:381
+msgid "You can change footers main text color in here"
+msgstr "Jūs galite pakeisti footer'io pagrindinio teksto spalvą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:388
+msgid "Footer Bottom Text Color"
+msgstr "Footer'io Apatinio teksto Spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:389
+msgid "You can change footers bottom main text color in here"
+msgstr "Jūs galite pakeisti footer'io  apatinio teksto spalva cia"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:396
+msgid "Footer Link Color"
+msgstr "Footer'io nuorodos spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:397
+msgid "You can change footers link color in here."
+msgstr "Jūs galite pakeisti footer'io nuorodos spalvą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:404
+msgid "Footer Link Hover Color"
+msgstr "Footer'io nuorodos svyravimo spalva"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:405
+msgid "You can change footers link hover color in here."
+msgstr "Jūs galite pakeisti footer'io nuorodos svyravimo spalvą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:412
+msgid "Footer Widget Titles"
+msgstr "Footer'io Widget'o pavadinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:413
+msgid "You can change the color of footer widget titles in here."
+msgstr "Jūs galite pakeisti footer'io widget'o pavadinimo spalvą čia"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:420
+msgid "Body/ Main Font"
+msgstr "Pagrindo/pagrindinis šriftas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:421
+msgid "This change will effect body font."
+msgstr "Šis pakitimas paveiks pagrindo šriftą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:435
+msgid "h1 Tag"
+msgstr "h1 Žymė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:436
+msgid "This change will effect h1 tag."
+msgstr "Šis pakitimas paveiks h1 žymę"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:450
+msgid "h2 Tag"
+msgstr "h2 Žymė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:451
+msgid "This change will effect h2 tag."
+msgstr "Šis pakitimas paveiks h2 žymę"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:465
+msgid "h3 Tag"
+msgstr "h3 Žymė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:466
+msgid "This change will effect h3 tag."
+msgstr "Šis pakitimas paveiks h3 žymę"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:480
+msgid "h4 Tag"
+msgstr "h4 Žymė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:481
+msgid "This change will effect h4 tag."
+msgstr "Šis pakitimas paveiks h4 žymę"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:495
+msgid "h5 Tag"
+msgstr "h5 Žymė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:496
+msgid "This change will effect h5 tag."
+msgstr "Šis pakitimas paveiks h5 žymę"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:510
+msgid "h6 Tag"
+msgstr "h6 Žymė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:511
+msgid "This change will effect h6 tag."
+msgstr "Šis pakitimas paveiks h6 žymę"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:525
+msgid "Custom title 1"
+msgstr "Jūsų sukurtas pavadinimas 1"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:526
+msgid "This change will effect Page titles, Blog single's title and Blog page title."
+msgstr "Šitie pakitimai paveiks puslapio pavadinimus, blog'ų pavienius pavadinimus ir blog'o puslapio pavadinimą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:540
+msgid "Custom title 2"
+msgstr "Jūsų sukurtas pavadinimas 2"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:541
+msgid "This change will effect Loop titles / recent post and recent portfolio."
+msgstr "Šitie pakitimai paveiks kilpos pavadinimus/paskutinį komentarą ir paskutinį portfolio."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:555
+msgid "Custom title 3"
+msgstr "Jūsų sukurtas pavadinimas 2"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:556
+msgid "This change will effect widget titles and seperator titles."
+msgstr "Šitie pakitimai paveiks widget'ų pavadinimus ir skirtukų pavadinimus."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:570
+msgid "Custom Menu"
+msgstr "Jūsų sukurtas meniu"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:571
+msgid "This change will effect main nav."
+msgstr "Šitie pakitimai paveiks pagrindinę navigaciją."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:591
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:663
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:132
+msgid "Blog Settings"
+msgstr "Blog'o nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:598
+msgid "Blog Layout"
+msgstr "Blog'o Planas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:599
+msgid "Please choose default layout for your blog. To set your blog page, please go to Setting > Reading > FrontPage Display > A static page > post page and choose the page that you would like to display your blog page. You can set number of post per page in Blog pages show at most section."
+msgstr "Prašau pasirinkite numatytą planą Jūsų blog'ui. Kad nustatyti Jūsų blog'o puslapį, naviguokite į Nustatymai > Skatymas > Parodyti FrontPage > Statinis puslapis > nusiųskite puslapį ir pasirinkite puslapį, kurį norėtumėte matyti jūsų blog'o puslapyje. Jūs galite nustatyti komentarų skaičių blog'o puslapyje, daugumoje vietų."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:610
+msgid "Blog Sidebar Position"
+msgstr "Blog'o Parankinės Pozicija"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:611
+msgid "Please choose default sidebar position for your blog."
+msgstr "Prašome pasirinkti jūsų blog'o parankinės pozicija"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:623
+msgid "Display author in blog posts?"
+msgstr "Rodyti autorių blog'ų post'uose?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:624
+msgid "If you would like to hide author, please turn <stong>[OFF]</strong> this button."
+msgstr "Jeigu Jūs norite paslėpti autorių, įjunkite <strong>[IŠJUNGTI]</strong> mygtuką."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:631
+msgid "Display comment in blog posts?"
+msgstr "Rodyti komentarą blog'ų post'uose?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:632
+msgid "If you would like to hide comment, please turn <strong>[OFF]</strong> this button."
+msgstr "Jeigu Jūs norite paslėpti komentarą, įjunkite <strong>[IŠJUNGTI]</strong> mygtuką."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:639
+msgid "Display date in blog posts?"
+msgstr "Rodyti datą blog'ų post'uose?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:640
+msgid "If you would like to hide date, please turn <strong>[OFF]</strong> this button."
+msgstr "Jeigu Jūs norite paslėpti datą, įjunkite <strong>[IŠJUNGTI]</strong> mygtuką."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:647
+msgid "Display tag in blog posts?"
+msgstr "Rodyti žymę blog'ų post'uose?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:648
+msgid "If you would like to hide tag, please turn <strong>[OFF]</strong> this button."
+msgstr "Jeigu Jūs norite paslėpti žymę, įjunkite <strong>[IŠJUNGTI]</strong> mygtuką."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:655
+msgid "Display category in blog posts?"
+msgstr "Rodyti kategoriją blog'ų post'uose?"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:656
+msgid "If you would like to hide category, please turn <strong>[OFF]</strong> this button."
+msgstr "Jeigu Jūs norite paslėpti kategoriją, įjunkite <strong>[IŠJUNGTI]</strong> mygtuką."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:664
+msgid "Please insert Default blog title in here."
+msgstr "Įterpkite numatytąjį blog'o pavadinimą čia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:677
+msgid "Social Settings"
+msgstr "Socialiniai nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:684
+msgid "Facebook"
+msgstr "Facebook"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:685
+msgid "Please write your Facebook URL."
+msgstr "Parašykite savo Facebook URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:692
+msgid "Twitter"
+msgstr "Twitter"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:693
+msgid "Please write your Twitter URL."
+msgstr "Parašykite savo Twitter URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:700
+msgid "YouTube"
+msgstr "YouTube"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:701
+msgid "Please write your YouTube URL."
+msgstr "Parašykite savo YouTube URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:708
+msgid "Forrst"
+msgstr "Forrst"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:709
+msgid "Please write your Forrst URL."
+msgstr "Parašykite savo Forrst URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:716
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:717
+msgid "Please write your Dribbble URL."
+msgstr "Parašykite savo Dribbble URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:724
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:725
+msgid "Please write your Vimeo URL."
+msgstr "Parašykite savo Vimeo URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:732
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:733
+msgid "Please write your Pinterest URL."
+msgstr "Parašykite savo Pinterest URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:740
+msgid "Flickr"
+msgstr "Flickr"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:741
+msgid "Please write your Flickr URL."
+msgstr "Parašykite savo Flickr URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:748
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:749
+msgid "Please write your Linkedin URL."
+msgstr "Parašykite savo Linkedin URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:756
+msgid "Rss"
+msgstr "Rss"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:757
+msgid "Please write your RSS URL."
+msgstr "Parašykite savo RSS URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:764
+msgid "Delicious"
+msgstr "Delicious"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:765
+msgid "Please write your Delicious URL."
+msgstr "Parašykite savo Delicious URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:772
+msgid "Digg"
+msgstr "Digg"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:773
+msgid "Please write your Digg URL."
+msgstr "Parašykite savo Digg URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:780
+msgid "Foursquare"
+msgstr "Foursquare"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:781
+msgid "Please write your Foursquare URL."
+msgstr "Parašykite savo Foursquare URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:788
+msgid "Github"
+msgstr "Github"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:789
+msgid "Please write your Github URL."
+msgstr "Parašykite savo Github URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:796
+msgid "Google-Plus"
+msgstr "Google-Plus"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:797
+msgid "Please write your Google-Plus URL."
+msgstr "Parašykite savo Google-Plus URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:804
+msgid "Reddit"
+msgstr "Reddit"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:805
+msgid "Please write your Reddit URL."
+msgstr "Parašykite savo Reddit URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:812
+msgid "Stumbleupon"
+msgstr "Stumbleupon"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:813
+msgid "Please write your Stumbleupon URL."
+msgstr "Parašykite savo Stumbleupon URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:820
+msgid "Yelp"
+msgstr "Yelp"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:821
+msgid "Please write your Yelp URL."
+msgstr "Parašykite savo Yelp URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:828
+msgid "Zerply"
+msgstr "Zerply"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:829
+msgid "Please write your Zerply URL."
+msgstr "Parašykite savo Zerply URL."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:842
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:130
+msgid "Portfolio Settings"
+msgstr "Portfolio nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:849
+msgid "Portfolio Page"
+msgstr "Portfolio puslapis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:853
+msgid "Please choose portfolio page ( required for active class )"
+msgstr "Prašome pasirinkti portfelio puslapį (reikalaujama aktyvaus klasės)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:857
+msgid "Portfolio (nofilter) Layout"
+msgstr "Portfolio (nefiltruotas) planas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:858
+msgid "Please choose default layout of Portfolio (nofilter). You can choose any template and layout for filterable portfolios while creating their pages."
+msgstr "Prašau apsirinkite numatytąjį portfolio planą (nefiltruotą). Jūs galite pasirinkti bet kurį šabloną ir planą filtruojamiem portfolio kurdami jų puslapius.	"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:870
+msgid "Nofilter Portfolio Short Description"
+msgstr "Nefiltruotų Portfolio trumpas apibūdinimas/aprašymas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:874
+msgid "You can write a short description for your portfolio that will be displayed in NoFilter portfolio"
+msgstr "Galite parašyti trumpą savo portfelį, kuris bus rodomas nofilteriu portfelio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:878
+msgid "Portfolio Number"
+msgstr "Portfolio numeris"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:882
+msgid "Please insert maximum item number per page that will be displayed on NoFilter"
+msgstr "Prašome įrašyti maksimali pozicija vienam puslapį, kuris bus rodomas nofilteriu portfelio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:886
+msgid "Portfolio Number ( Filterable Portfolio )"
+msgstr "portfolio numeris (filtruojamieji portfolio)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:890
+msgid "Please insert maximum item number per page that will be displayed on Filterable Portfolio"
+msgstr "Prašome įrašyti maksimali pozicija vienam puslapį, kuris bus rodomas filtruojamieji portfelio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:894
+msgid "Filterable Portfolio Pagenavi"
+msgstr "Filtruojamųjų portfolio pouslapio navigacija (PageNavi)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:895
+msgid "Deactivates pagination ( pagenavi ) feature in Filterable Portfolio templates. If you turn <strong>[OFF]</strong> this button, pagination ( pagenavi ) will be visible in Filterable Portfolio page templates."
+msgstr "Deaktyvuoja puslapio navigacijos galimybą filtruojamuosiuose portfolio šablonuose. Jeigu įjugsite <strong>[IŠJUNGTI]</strong> mygtuką, puslapio navigacija bus matoma filtruojamosiuose portfolio puslapio šablonuose."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:908
+msgid "Slider Settings"
+msgstr "Slankiklio/ Slaiderio nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:915
+msgid "FlexSlider (Homepage) Slide number"
+msgstr "FlexSlider (pagrindinis puslapis) slaiderio numeris"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:916
+msgid "Please insert maximum slide number that will be displayed in slider."
+msgstr "Prašau įterpkite maksimalų slaiderių skaičių, kuris bus atvaizduojamas slaideryje."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:923
+msgid "FlexSlider (Homepage) Slide Duration"
+msgstr "FlexSlider (pagrindinis puslapis) slaiderio trukmė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:924
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:983
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:999
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1018
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1026
+msgid "Please insert slider duration in milliseconds. i.e.: insert 1000 for 1 second"
+msgstr "Prašau įterpkite slaiderio trukmę milisekundėmis. t.y.: 1000 yra 1 sekundė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:931
+msgid "FlexSlider (Homepage) Slide Effect "
+msgstr "FlexSlider (pagrindinis puslapis) slaiderio efektas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:932
+msgid "Please choose slide effect. This will effect homepage flexslider."
+msgstr "Prašau išsirinkite slaiderio efektą. Tai paveiks pagrindinio pusapio flexslider'į"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:942
+msgid "FlexSlider (Homepage) Control Nav "
+msgstr "FlexSlider (pagrindinis puslapis) navigacijos valdymas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:943
+msgid "Please turn <strong>[ON]</strong> the button to activate and turn <strong>[OFF]</strong> the button to deactivate Control nav."
+msgstr "Prašau įjunkite <strong>[IJUNGTI]</strong> mygtuką, kad aktyvuoti ir įjunkite <strong>[IŠJUNGTI]</strong> mygtuką, kad išjungti navigacijos valdymą."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:950
+msgid "FlexSlider (Homepage) Direction Nav "
+msgstr "FlexSlider (pagrindinis puslapis) navigacijos kryptis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:951
+msgid "Please turn <strong>[ON]</strong> the button to show and turn <strong>[OFF]</strong> the button to hide direction nav when mouse over slide."
+msgstr "Prašau įjunkite <strong>[IJUNGTI]</strong> mygtuką, kad parodyti ir įjunkite <strong>[IŠJUNGTI]</strong> mygtuką, kad paslėpti navigaciojs kryptį, kai pelytė yra ant jos."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:958
+msgid "FlexSlider (Homepage) Pause on Mouseover"
+msgstr "FlexSlider (pagrindinis puslapis) pauzė slenkant pelės žymekliu"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:959
+msgid "Please turn <strong>[ON]</strong> the button to pause when mouse over slide and turn <strong>[OFF]</strong> the button to deactivate pause when mouse over slide."
+msgstr "Prašau įjunkite <strong>[IJUNGTI]</strong> mygtuką, kad sustabdyti slenkant pelės žymekliu ir įjunkite <strong>[IŠJUNGTI]</strong> mygtuką, kad išjungti sustabdymą slenkant pelės žymekliu."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:966
+msgid "FlexSlider (Homepage) Slideshow(Autoplay)"
+msgstr "FlexSlider (pagrindinis puslapis) skaidrių peržiūra"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:967
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:975
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:991
+msgid "Please turn <strong>[ON]</strong> the button to activate autoplay and turn <strong>[OFF]</strong> the button to deactivate autoplay."
+msgstr "Prašau įjunkite <strong>[IJUNGTI]</strong> mygtuką, kad aktyvuoti auto grojimą ir įjunkite <strong>[IŠJUNGTI]</strong> mygtuką, kad išjungti auto grojimą."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:974
+msgid "EmbedSlider Slideshow(Autoplay)"
+msgstr "EmbedSlider skaidrių peržiūra (auto grojimas)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:982
+msgid "EmbedSlider (Homepage) Slide Duration"
+msgstr "EmbedSlider (pagrindinis puslapis) skaidrės trukmė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:990
+msgid "Portfolio Single Slideshow(Autoplay)"
+msgstr "Portfolio vienetinė skaidrių peržiūra(auto grojimas)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:998
+msgid "Portfolio Single Slide Duration"
+msgstr "Portfolio vienetinė skadirės trukmė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1006
+msgid "Portfolio Single Slide Effect "
+msgstr "Portfolio vienetinė skaidrės efektas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1007
+msgid "Please choose slide effect. This will effect portfolio single flexslider."
+msgstr "Prašau išsirinkite skaidrės efektą. Tai paveiks portfolio vienetinius flexslider'ius"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1017
+msgid "Testimonials Slide Duration"
+msgstr "Skaidrės atiliepimo trukmė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1025
+msgid "Blog Gallery Slide Duration"
+msgstr "Blog'o galerijos skaidrės trukmė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1039
+msgid "Contact Settings"
+msgstr "Kontakto nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1046
+msgid "Contact Page Sidebar Position"
+msgstr "Susisiekite puslapis šoninę juostą poziciją"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1047
+msgid "Please choose default sidebar position for your Contact Page."
+msgstr "Prašome pasirinkti numatytąją sidebar kontaktų Page poziciją."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1058
+msgid "Maps Code"
+msgstr "Žemėlapių kodas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1059
+msgid "You can paste Google Maps code here or any other embed or iframe codes."
+msgstr "Jūs galite įterpti Google Maps kodą čia arba bet kurį kitą įmontuotą, arba iframe kodą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1066
+msgid "Contact Mail"
+msgstr "Kontakto elektroninio pašto adresas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1067
+msgid "Please insert your contact mail here. For more than 1 email address, please insert comma (without space) in between each email addresses."
+msgstr "Prašau įterpkite savo kontakto pašto adresą čia. Atskirkite kableliu (be tarpo), jei norite įterpti daugiau ne vieną elektroninio pašto adresą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1080
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:10
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:9
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:9
+msgid "SEO Settings"
+msgstr "SEO Nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1087
+msgid "Site's Main Title"
+msgstr "Tinklapio Pagrindinis Pavadinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1088
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:18
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:17
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:17
+msgid "Title must not exceed 70 characters. Search engines mark titles with more than 70 characters as spam. Character count will not let you write if you try to exceed the limit."
+msgstr "Pavadinimas neturi viršyti 70 simbolių. Paieškos varikliai didesnį nei 70 simbolių pavadinimą žymi, kaip spam'ą. Raidžių skaičiuoklė neleis jums padidinti leidžiamą simbolių skaičių."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1095
+msgid "Site's Main Description"
+msgstr "Tinklapio Pagrindinis Aprašymas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1096
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:26
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:25
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:25
+msgid "Description must not exceed 160 characters. Search engines mark descriptions with more than 160 characters as spam. Character count will not let you write if you try to exceed the limit."
+msgstr "Apibūdinimas neturi viršyti 160 simbolių. Paieškos varikliai didesnį nei 160 simbolių apibūdinimą žymi, kaip spam'ą. Raidžių skaičiuoklė neleis jums padidinti leidžiamą simbolių skaičių."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1103
+msgid "Site's Main Keywords"
+msgstr "Tinklapio Pagrindiniai Raktažodžiai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1104
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:34
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:33
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:33
+msgid "Keywords must not exceed 260 characters. Search engines mark keywords with more than 260 characters as spam. Character count will not let you write if you try to exceed the limit."
+msgstr "Raktažodžiai neturi viršyti 260 simbolių. Paieškos varikliai didesnį nei 260 simbolių raktažodžių junginį žymi, kaip spam'ą. Raidžių skaičiuoklė neleis jums padidinti leidžiamą simbolių skaičių."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1111
+msgid "Google Site Verification"
+msgstr "Google Tinklapio Patikrinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1112
+msgid "Please insert verification code for Webmaster tool in here. Insert the code given in meta codes content=\"\" section."
+msgstr "Prašau įterpkite patikrinimo kodą Webmaster'o įrankiui čia. Įveskite kodą į meta kodų content=\"\" skyriuje."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1125
+msgid "Admin Settings"
+msgstr "Admino Nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1132
+msgid "Theme Name"
+msgstr "Temos Pavadinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1133
+msgid "Theme name will be displayed in the menu in appearance."
+msgstr "Temos pavadinimas bus rodomas meniu išorėje/išvaizdoje."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1140
+msgid "Upload Options Page Logo (this page)"
+msgstr "Įkėlimo Pasirinkimas Tinklapio logotipui (šis puslapis)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1141
+msgid "Logo uploaded here will change the logo located on the top left side of this page."
+msgstr "Logotipas, įkeltias čia, pakeis logotipą esantį kairiajame viršutiniame puslapio kampe."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1154
+msgid "Upload Admin Login Logo"
+msgstr "Įkelkite Admino Prisijungimo Logotipą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:1155
+msgid "Please click Browse button to choose and upload your admin login logo. Use delete button to delete logo. Please do not forget to save after uploading your logo. Logo will be displayed in admin login page."
+msgstr "Prašau paspauskite Naršyti mygtuką, kad išsirinkti ir įkelti jūsų admino prisijungimo logotipą. Naudokite Ištrinti mygtuką, kad ištrinti/pašalinti logotipą. Nepamirškite išsaugoti po to, kai įkėlėte logotipą. Logotipas bus rodomas admino prisijungimo puslapyje."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:2664
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:382
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:510
+msgid "Delete"
+msgstr "Ištrinti"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:2756
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:359
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:493
+msgid "ON"
+msgstr "IJUNGTI"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:2757
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:360
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:494
+msgid "OFF"
+msgstr "IŠJUNGTI"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3053
+msgid "If you need any help, you can vist our <a href=\"http://www.cmscode.com/\">support page.</a>"
+msgstr "Jeigu Jums reikia pagalbos, Jūs galite aplankyti mūsų <a href=\"http://www.cmscode.com/\">Paramos puslapį</a>"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3054
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3075
+msgid "Apply Changes"
+msgstr "Taikyti pakitimus"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/admin/admin-functions.php:3074
+msgid "Default Values"
+msgstr "Numatytos vertės"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:17
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:16
+msgid "Title"
+msgstr "Pavadinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:25
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:24
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:24
+msgid "Description"
+msgstr "Apibūdinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:33
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:32
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:32
+msgid "Keywords ( comma seperated )"
+msgstr "Raktažodžiai (atskirti kableliais)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:148
+msgid "For Thumbnail image, please use Featured Image. Please change format to Gallery or Video to use metaboxes of related section."
+msgstr "Thumbnail paveikslėliams, prašau naudokite Featured Image. Pakeiskite formatą į Gallery arba Video, kad naudoti atitinkamų skyrių metaboxe'us "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:161
+msgid "Gallery Image Height"
+msgstr "Galerijos paveikslėlio aukštis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:162
+msgid "Please insert height for your images that will be located in gallery post format. For 600px write 600. If automatic resizing/cropping is not turned <strong>[OFF]</strong>, images will not be resized/cropped."
+msgstr "Įveskite savo paveikslėlių auksčius kurie bus patalpinti galerijų post'ų formate. Jei dydis yra 600px, rašykite 600. Jei automatinis padidinimas yra neįjungtas <strong>[IŠJUNGTI]</strong>, paveikslėliai nebus automatiškai padidinami arba sumažinami."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:168
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:174
+msgid "Automatic Resizing / Cropping"
+msgstr "Automatinis dydžio keitimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:169
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:175
+msgid "Turn <strong>[ON]</strong> if you want your images to be automatically resized / cropped by using timthumb."
+msgstr "Įjunkite <strong>[IJUNGTI]</strong> jeigu Jūs norite, kad Jūsų paveikslėlių dydžiai būtų automatiškai pakeisti naudojant timthumb."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:176
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:240
+msgid "Image 1"
+msgstr "Paveikslėlis 1"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:177
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:190
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:204
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:218
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:232
+msgid "Please click Browse button to choose and add image. w: 610px , h: same height as above."
+msgstr "Paspauskite Naršyti mygtuką, kad išsirinktumėte ir pridėtumėte paveikslėlį. w: 610px , h: toks pat, kaip auksčiau"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:189
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:253
+msgid "Image 2"
+msgstr "Paveikslėlis 2"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:203
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:267
+msgid "Image 3"
+msgstr "Paveikslėlis 3"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:217
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:281
+msgid "Image 4"
+msgstr "Paveikslėlis 4"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:231
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:295
+msgid "Image 5"
+msgstr "Paveikslėlis 5"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:259
+msgid "Video Embed/Iframe"
+msgstr "Video montažas/Iframe"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/blog-metabox.php:260
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:393
+msgid "You can paste any embed/iframe code here. Width and height will be automatically fit in responsive layout"
+msgstr "Jūs galite įterpti bet kokį montuojamą/iframe kodą čia. Plotis ir aukštis bus automatiškai įtalpintas reaguojant į išdėstymą."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:133
+msgid "Settings"
+msgstr "Nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:148
+msgid "Homepage slider"
+msgstr "Pagrindinio puslapio slaideris/slankiklis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/page-metabox.php:149
+msgid "Please choose slider that you would like to display on your homepage."
+msgstr "Prašau išsirinkite slaiderį/slankiklį, kurį norėtumėte matyti savo pagrindiniame puslapyje"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:141
+msgid "Portfolio Type"
+msgstr "Portfolio tipas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:142
+msgid "Please choose portfolio type. ( image or video )"
+msgstr "Pasirinkite portfolio tipą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:151
+msgid "Lightbox"
+msgstr "Lightbox"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:152
+msgid "If lightbox is active ( yes ), larger images displayed with lightbox when clicked on thumbnail. If lightbox is deactive ( no ), goes to portfolio single page when clicked on thumbnail."
+msgstr "Jei lightbox'as yra aktyvus (taip), paspaudus ant thumbnail'o bus rodomi didesni paveikslėliai. Jei lightbox'as yra neaktyvus (ne), naviguoja į vienetinį portfolio puslapį paspaudus ant thumbnail'o."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:161
+msgid "Portfolio Thumbnail"
+msgstr "Portfolio thumbnail'as"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:162
+msgid "Please click browse button > select files > insert into post, to choose and add portfolio thumbnail image. w: 450px , h: 320px"
+msgstr "Paspauskite Naršyti mygtuką > išsirinkite failus > įdėkite į post'ą, kad pasirinkti ir pridėti portfolio thumbnail'o paveikslėlį. w: 450px , h: 320px"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:182
+msgid "Portfolio Description"
+msgstr "Portfolio aprašymas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:183
+msgid "Please write a short description about your portfolio."
+msgstr "Parašykite trumpą aprašymą apie Jūsų portfolio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:189
+msgid "Portfolio Client"
+msgstr "Portfolio klientas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:190
+msgid "Please insert names of your clients, if left empty (if there is no) client section will not be displayed."
+msgstr "Įterpkite Jūsų klientų vardus, jei paliktas tuščias (jeigu jų nėra) klientų sekcija nebus rodoma."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:196
+msgid "Show Data"
+msgstr "Rodyti duomenis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:197
+msgid "If you choose yes data will be displayed and if you choose no data will not be displayed."
+msgstr "Jei Jūs pasirinksite taip, data bus rodoma, jei ne - nebus rodoma."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:205
+msgid "Portfolio URL"
+msgstr "Portfolio URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:206
+msgid "Please write if your portfolio has a link. Leave empty if there is not."
+msgstr "Parašykite, ar Jūsų portfolio turi nuorodą. Palikite tuščią, jei nuorodos nėra."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:213
+msgid "View Project text"
+msgstr "Peržiūrėti projekto tekstą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:214
+msgid "Please insert text if you would like to change \"view project\" text. If left empty, View Project will be displayed."
+msgstr "Įterpkite tekstą, jeigu Jūs norite pakeisti \"Peržiūrėti projekto\" text. Jei paliktas tuščias, Peržiūrėti projektą bus atvaizduojamas."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:220
+msgid "Show Taxonomy"
+msgstr "parodyti Taksonomiją"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:221
+msgid "If you choose yes taxonomy will be displayed and if you choose no taxonomy will not be displayed."
+msgstr "Jei Jūs pasirinksite taip, taksonomija bus rodoma, jei ne - nebus rodoma."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:241
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:254
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:268
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:282
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:296
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:310
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:323
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:337
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:351
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:365
+msgid "Image width must be minimum 930px. Height will be automatically set."
+msgstr "Paveikslėlio plotis minimum turi būti 930px. Aukštis bus automatiškai nustatytas."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:309
+msgid "Image 6"
+msgstr "Paveikslėlis 6"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:322
+msgid "Image 7"
+msgstr "Paveikslėlis 7 "
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:336
+msgid "Image 8"
+msgstr "Paveikslėlis 8"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:350
+msgid "Image 9"
+msgstr "Paveikslėlis 9"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:364
+msgid "Image 10"
+msgstr "Paveikslėlis 10"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/portfolio-metabox.php:392
+msgid "Video Embed"
+msgstr "Video montažas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:10
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:246
+msgid "Slide Settings"
+msgstr "Slaiderio/slankiklio nustatymai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:29
+msgid "Slider Image"
+msgstr "Slaiderio/slankiklio Paveikslėlis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:30
+msgid "Please click browse button > select files > insert into post, to choose and add slider image. w: 930px , h: 400px"
+msgstr "Paspauskite Naršyti mygtuką > išsirinkite failus > įdėkite į post'ą, kad pasirinkti ir pridėti slaiderio/slankiklio paveikslėlį. w: 930px , h: 400px"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:43
+msgid "Slider Url"
+msgstr "Slaiderio/slankiklio URL"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:44
+msgid "Link to URL when clicked on image. ( Empty if there is no )"
+msgstr "URL'o nuoroda, kai paspaudžiama ant paveikslėlio. (tuščias, jei tokio nėra)"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:51
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:263
+msgid "Slide Title"
+msgstr "Slaiderio/slankiklio pavadinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:52
+msgid "Title will not be displayed if empty"
+msgstr "Pavadinimo nebus rodoma, jei tuščia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:59
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:270
+msgid "Slide Caption"
+msgstr "Slaiderio/slankiklio Antraštė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:60
+msgid "Caption will not be displayed if empty"
+msgstr "Antraštė nebus rodoma, jei tuščia."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:66
+msgid "Caption Align"
+msgstr "Antraštės lygiavimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:67
+msgid "Please choose how to align slider title and caption."
+msgstr "Prašau pasirinkite, kaip lygiuoti slaiderio/slankiklio pavadinimą ir antraštę"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:256
+msgid "Slide Embed"
+msgstr "Slaiderio/slankiklio montažas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:264
+msgid "Please insert a slide title that will be located on the right side of the embed code."
+msgstr "Įterpkite slaiderio/slankiklio pavadinimą, kuris bus patalpintas dešinėje montuojamo kodo pusėje."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/metabox/slider-metabox.php:271
+msgid "Please insert a slide caption that will be located on the right side of the embed code."
+msgstr "Įterpkite slaiderio/slankiklio antraštę, kuris bus patalpintas dešinėje montuojamo kodo pusėje"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:170
+msgid "Sidebar Name"
+msgstr "Šoninės sidebar'o pavadinimas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:171
+msgid "CSS clas"
+msgstr "CSS klasė"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:172
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:185
+msgid "Remove"
+msgstr "Pašalinti"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:193
+msgid "No Sidebars defined"
+msgstr "Nėra apibrėžta jokių šoninių sidebar'ų"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:200
+msgid "+ Add New Sidebar"
+msgstr "+ Pridėti naują sidebar'ą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:242
+msgid "Please select the sidebar you would like to display on this page. <strong>Note:</strong> You must first create the sidebar under Appearance > Sidebars."
+msgstr "Prašau išsirinkite sidebar'ą, kurį norėtumėte matyti puslapyje. <strong>Pastaba:</strong> Iš pradžių Jūs turite sukurti sidebar'ą kaip Išvaizda > Sidebar'ai."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:251
+msgid "Default Sidebars"
+msgstr "Numatyti sidebar'ai"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/plugin/sidebars.php:266
+msgid "None"
+msgstr "Niekas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/gallery.php:78
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/standard.php:22
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/video.php:25
+msgid "By"
+msgstr "pagal"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/gallery.php:82
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/standard.php:26
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/video.php:29
+msgid "In"
+msgstr "Į"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/gallery.php:99
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/standard.php:43
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/postformat/video.php:46
+msgid "Read More"
+msgstr "Skaitykite daugiau"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:8
+msgid "Portfolio Item"
+msgstr "Portfolio elementas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:9
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:9
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:51
+msgid "Add new"
+msgstr "Pridėti naują"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:10
+msgid "Add New Portfolio Item"
+msgstr "Pridėti naują portfolio elementą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:11
+msgid "Edit Portfolio Item"
+msgstr "Redaguoti portfolio elementą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:12
+msgid "New Portfolio  Item"
+msgstr "naujas portfolio elementas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:13
+msgid "View Portfolio Item"
+msgstr "peržiūrėti portfolio elementą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:14
+msgid "Search Portfolio"
+msgstr "ieškoti portfolio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:15
+msgid "No Portfolios Found"
+msgstr "Portfolio nerasta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:16
+msgid "No Portfolios In Trash"
+msgstr "portfolio nėra šiukšliadežėje"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:18
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:23
+msgid "Portfolio"
+msgstr "Portfolio"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/portfolio-posttype.php:41
+msgid "Filter"
+msgstr "Filtras"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:8
+msgid "Slider Item"
+msgstr "Slaiderio/slankiklio elementas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:10
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:52
+msgid "Add New Slider Item"
+msgstr "pridėti naują slaiderio/slankiklio elementą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:11
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:53
+msgid "Edit Slider Item"
+msgstr "redaguoti slaiderio/slankiklio elementą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:12
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:54
+msgid "New Slider  Item"
+msgstr "naujas slaiderio/slankiklio elementas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:13
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:55
+msgid "View Slider Item"
+msgstr "peržiūrėti slaiderio/slankiklio elementą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:14
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:56
+msgid "Search Slider"
+msgstr "Ieškoti slaiderį/slankiklį"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:15
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:57
+msgid "No Sliders Found"
+msgstr "Slaiderių/slankiklių nerasta"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:16
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:58
+msgid "No Sliders In Trash"
+msgstr "Slaiderių/slankiklių nėra šiukšliadežėje"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:18
+msgid "Slider"
+msgstr "Slaideris/slankiklis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:23
+msgid "slider"
+msgstr "Slaideris/slankiklis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:50
+msgid "EmbedSlider Item"
+msgstr "Įmontuotas Slaideris/slankiklis Elementas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:60
+msgid "EmbedSlider"
+msgstr "Įmontuotas Slaideris/slankiklis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/posttype/slider-posttype.php:65
+msgid "videoslider"
+msgstr "Video Slaideris/slankiklis"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:41
+msgid "You can display your Flickr images by using this widget."
+msgstr "Jūs galite atvaizduoti Jūsų Flickr paveikslėlius naudodami šį widget'ą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:55
+msgid "SOS Flickr Widget"
+msgstr "SOS Flickr Widget'as"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:182
+msgid "Flickr id"
+msgstr "Flickr id"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-flickr.php:194
+msgid "Number of photos "
+msgstr "Nuotraukų skaičius"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-recent-portfolio.php:41
+msgid "This widget displays your recent portfolio items."
+msgstr "Šis widget'as rodo Jūsų paskutinio portfolio elementus."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-recent-portfolio.php:55
+msgid "SOS Portfolio Widget"
+msgstr "SOS Portfolio Widget'as"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-recent-portfolio.php:164
+msgid "Number of Portfolio"
+msgstr "Portfolio skaičius"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-social.php:41
+msgid "This widget displays your social network that you have added in option page."
+msgstr "Šis widget'as rodo Jūsų socialinį tinklą, kurį Jūs pridėjote nustatymų puslapyje."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-social.php:55
+msgid "SOS Social Widget"
+msgstr "SOS Social Widget'as"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-social.php:149
+msgid "All social network you have added in option page will be displayed in selected section."
+msgstr "Visi socialiniai tinklai, kurie buvo pridėti, bus vaizduojami Jūsų pasirinktoje sekcijoje."
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:41
+msgid "You can display your Tweets by using this Twitter widget."
+msgstr "Jūs galite vaizduoti savo Tweet'us naudodami šį Twitter'io widget'ą"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:55
+msgid "SOS Twitter Widget"
+msgstr "SOS Twitter Widget'as"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:182
+msgid "Twitter name"
+msgstr "Twitter'io vardas"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:194
+msgid "Tweet Number"
+msgstr "Tweet'o numeris"
+
+#: C:\wamp\www\wordpress\wp-content\themes\Quickess/inc/widget/widget-twitter.php:206
+msgid "Follow Text"
+msgstr "Sekti tekstą"
+
